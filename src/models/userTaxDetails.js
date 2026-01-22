@@ -1,24 +1,49 @@
 import mongoose from "mongoose";
 
-const TaxDetailSchema = new mongoose.Schema({
-    
-    type: {type: String, enum: ["administrator", "tax payer", "tax practitionor"]},
-    title: {type: String, required: true},
-    description: {type: String, required: false},
-    propertyType: {type: String, required: false},
-    location: {type: Number, required: false},
-    price: {type: String, required: false},
-    photo: {type: String, required: false},
-    userId: {
-        type: mongoose.Schema.Types.ObjectId, 
-        ref: 'UserModel', required: true 
-    },
-    onBoardingDetails: {
-        type: mongoose.Schema.Types.ObjectId, 
-        ref: 'OnBoardingModel', required: true 
+const userTaxDocumentSchema = new mongoose.Schema(
+  {
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
+      required: true,
     },
 
-})
+    onboardingProfile: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "UserOnboarding",
+      required: true,
+    },
 
-const UserTaxDetails = mongoose.model('TaxDetails', TaxDetailSchema)
-export default UserTaxDetails 
+    taxYear: {
+      type: Number,
+      required: true,
+    },
+
+    documentType: {
+      type: String,
+      enum: [
+        "payslip",
+        "irp5",
+        "medical_certificate",
+        "retirement_annuity",
+        "vat_invoice",
+        "bank_statement",
+        "other",
+      ],
+      required: true,
+    },
+
+    fileUrl: {
+      type: String,
+      required: true,
+    },
+
+    uploadedAt: {
+      type: Date,
+      default: Date.now,
+    },
+  },
+  { timestamps: true }
+);
+
+export default mongoose.model("UserTaxDocument", userTaxDocumentSchema);

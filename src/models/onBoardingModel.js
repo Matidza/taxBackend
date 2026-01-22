@@ -1,3 +1,4 @@
+// models/UserOnboarding.js
 import mongoose from "mongoose";
 
 const userOnboardingSchema = new mongoose.Schema(
@@ -6,12 +7,12 @@ const userOnboardingSchema = new mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
       required: true,
-      unique: true,
     },
 
     taxYear: {
       type: Number,
-      default: 2024,
+      required: true,
+      index: true,
     },
 
     taxpayerType: {
@@ -24,16 +25,12 @@ const userOnboardingSchema = new mongoose.Schema(
       type: String,
       minlength: 13,
       maxlength: 13,
-      unique: true,
-      sparse: true,
     },
 
     sarsTaxNumber: {
       type: String,
       minlength: 10,
       maxlength: 10,
-      unique: true,
-      sparse: true,
     },
 
     vatNumber: {
@@ -60,9 +57,7 @@ const userOnboardingSchema = new mongoose.Schema(
       default: "February",
     },
 
-    estimatedAnnualIncome: {
-      type: Number,
-    },
+    estimatedAnnualIncome: Number,
 
     managedTaxes: [
       {
@@ -79,5 +74,8 @@ const userOnboardingSchema = new mongoose.Schema(
   },
   { timestamps: true }
 );
+
+// 🔒 One onboarding per user per tax year
+userOnboardingSchema.index({ user: 1, taxYear: 1 }, { unique: true });
 
 export default mongoose.model("UserOnboarding", userOnboardingSchema);
