@@ -1,26 +1,83 @@
 import mongoose from "mongoose";
 
-const TaxDetailSchema = new mongoose.Schema({
-    tax_number: {
-        type: String, required: true,
-        unique: true,maxlength: 8, minlegth: 8
+const userOnboardingSchema = new mongoose.Schema(
+  {
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "User",
+      required: true,
+      unique: true,
     },
-    ID_Number: {
-        type: Number,
-        required: true, unique: true,
-        maxlength: 13, minlegth: 13
-    },
-    type: {type: String, enum: ["administrator", "tax payer", "tax practitionor"]},
-    title: {type: String, required: true},
-    description: {type: String, required: false},
-    propertyType: {type: String, required: false},
-    location: {type: Number, required: false},
-    salary: {type: String, required: false},
-    userId: {
-        type: mongoose.Schema.Types.ObjectId, 
-        ref: 'UserModel', required: true 
-    },
-})
 
-const OnBoardingModel = mongoose.model('OnBoardingModel', TaxDetailSchema)
-export default OnBoardingModel 
+    taxYear: {
+      type: Number,
+      default: 2024,
+    },
+
+    taxpayerType: {
+      type: String,
+      enum: ["individual", "business", "tax_practitioner"],
+      required: true,
+    },
+
+    saIdNumber: {
+      type: String,
+      minlength: 13,
+      maxlength: 13,
+      unique: true,
+      sparse: true,
+    },
+
+    sarsTaxNumber: {
+      type: String,
+      minlength: 10,
+      maxlength: 10,
+      unique: true,
+      sparse: true,
+    },
+
+    vatNumber: {
+      type: String,
+      minlength: 10,
+      maxlength: 10,
+    },
+
+    businessStructure: {
+      type: String,
+      enum: [
+        "individual",
+        "sole_proprietor",
+        "pty_ltd",
+        "cc",
+        "partnership",
+        "trust",
+      ],
+    },
+
+    financialYearEnd: {
+      type: String,
+      enum: ["February", "March", "June", "December"],
+      default: "February",
+    },
+
+    estimatedAnnualIncome: {
+      type: Number,
+    },
+
+    managedTaxes: [
+      {
+        type: String,
+        enum: ["ITR12", "ITR14", "VAT201", "EMP201", "EMP501", "IRP6"],
+      },
+    ],
+
+    accountingIntegration: {
+      type: String,
+      enum: ["manual", "xero", "sage", "quickbooks", "pastel"],
+      default: "manual",
+    },
+  },
+  { timestamps: true }
+);
+
+export default mongoose.model("UserOnboarding", userOnboardingSchema);
