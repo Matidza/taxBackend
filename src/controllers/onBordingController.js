@@ -1,74 +1,97 @@
-import UserModel from "../models/userModel.js";
-import OnBoardingModel from "../models/onBoardingModel.js";
-import  {onBoardingSchema} from "../middlewares/validateUsertaxDetails.js"
+import UserModel from "../models/UserModel.js";
+import OnBoardingModel from "../models/UserOnboarding.js";
+import { onBoardingSchema } from "../middlewares/validateUsertaxDetails.js";
 
+export const onBoarding = async (req, res) => {
+  const userId = req.user._id; // from JWT
+  const {
+    taxpayerType,
+    saIdNumber,
+    sarsTaxNumber,
+    vatNumber,
+    businessStructure,
+    financialYearEnd,
+    estimatedAnnualIncome,
+    managedTaxes,
+    accountingIntegration,
+    taxYear,
+    audit,
+  } = req.body;
 
-export const onBoarding = async ( request, response) => {
-    const { title, type, tax_number } = request.body;
-    const { userId} = request.user; // ✅ Comes from JWT payload
-    const { _id} = request.query;
-    
-    try {
-        // 1. Validate fields
-        const { value, error } = onBoardingSchema.validate({
-            title, type,
-            userId, tax_number
-        });
-    
-        if (error) {
-            return response.status(400).json({
-                success: false,
-                message: error.details[0].message
-            });
-        }
-        // 2. Check if user is a mentor
-        /**  
-        if (user_type !== "mentor") {
-            return response.status(403).json({
-                success: false,
-                message: "Only mentors are allowed to create a profile."
-            });
-        }*/
+  try {
+    // 1️⃣ Validate input
+    const { error, value } = onBoardingSchema.validate({
+      user: userId,
+      taxpayerType,
+      saIdNumber,
+      sarsTaxNumber,
+      vatNumber,
+      businessStructure,
+      financialYearEnd,
+      estimatedAnnualIncome,
+      managedTaxes,
+      accountingIntegration,
+      taxYear,
+      audit,
+    });
 
-        // 3. Check if mentor already has a profile
-        const existingProfile = await OnBoardingModel.findOne({ userId });
-        if (existingProfile) {
-            return response.status(400).json({
-                success: false,
-                message: "You already have a profile. You can only create one."
-            });
-        }
-
-        // 4. Create profile
-        const newProfile = await OnBoardingModel.create({
-            userId,title, type, tax_number
-        });
-        // const result = new newProfile.save()
-
-        // // Udate the UserModel.type field after onbarding
-        // const userType = result.type
-        // const userProfile = await UserModel.findOne({ _id })
-        // if ( userType === userProfile ) {
-        //     userProfile.type = type
-        //     updateProfile = await userProfile.save()
-        // }
-
-        return response.status(201).json({
-            success: true,
-            message: "Onboarding completed successfully.",
-            // update: `UserModel: type field was updated with ${updateProfile}`,
-            result: newProfile
-        });
-
-    } catch (error) {
-        console.error("Error creating profile:", error);
-        return response.status(500).json({
-            success: false,
-            message: error.details[0].message,
-            messages: "Internal server error, please try again."
-        });
+    if (error) {
+      return res.status(400).json({
+        success: false,
+        message: error.details[0].message,
+      });
     }
-}
+
+    // 2️⃣ Check if profile already exists for this tax year
+    const existingProfile = await OnBoardingModel.findOne({
+      user: userId,
+      taxYear,
+    });
+
+    if (existingProfile) {
+      return res.status(400).json({
+        success: false,
+        message: "You already have an onboarding profile for this tax year.",
+      });
+    }
+
+    // 3️⃣ Create profile
+    const newProfile = await OnBoardingModel.create({
+      user: userId,
+      taxpayerType,
+      saIdNumber,
+      sarsTaxNumber,
+      vatNumber,
+      businessStructure,
+      financialYearEnd,
+      estimatedAnnualIncome,
+      managedTaxes,
+      accountingIntegration,
+      taxYear,
+      audit,
+    });
+
+    // 4️⃣ Update User type if needed
+    const user = await UserModel.findById(userId);
+    if (user && user.type !== taxpayerType) {
+      user.type = taxpayerType;
+      await user.save();
+    }
+
+    return res.status(201).json({
+      success: true,
+      message: "Onboarding completed successfully",
+      result: newProfile,
+    });
+  } catch (err) {
+    console.error("Onboarding error:", err);
+    return res.status(500).json({
+      success: false,
+      message: "Internal server error, please try again",
+    });
+  }
+};
+
 
 export const viewOnboard = async (request, response) => {
     const {_Id} = request.query;
