@@ -1,0 +1,39 @@
+{
+  "name": "taxbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "push": "node auto-push.js",
+    "admin": "node createAdmin.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matidza/"
+  },
+  "keywords": [],
+  "author": "Mukwevho Matidza Zwivhuya",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Matidza/"
+  },
+  "homepage": "https://github.com/Matidza/Career-Axis#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.1.1",
+    "morgan": "^1.10.1",
+    "nodemailer": "^7.0.12",
+    "nodemon": "^3.1.11",
+    "winston": "^3.19.0"
+  }
+}

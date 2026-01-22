@@ -1,0 +1,1096 @@
+2026-01-01 08:15:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 08:15:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 08:16:07 [INFO]: ✅ Connected to MongoDB
+2026-01-01 08:16:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 08:16:29 [INFO]: ::1 - - [01/Jan/2026:06:16:29 +0000] "GET / HTTP/1.1" 500 1461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 08:18:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 08:18:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 08:18:25 [INFO]: ::1 - - [01/Jan/2026:06:18:25 +0000] "GET / HTTP/1.1" 500 1461 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 08:19:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 08:19:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 08:19:07 [INFO]: ::1 - - [01/Jan/2026:06:19:07 +0000] "GET / HTTP/1.1" 200 37 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 09:13:21 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:13:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:13:33 [INFO]: ::1 - - [01/Jan/2026:07:13:33 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 91 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:14:21 [INFO]: ::1 - - [01/Jan/2026:07:14:21 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 76 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:14:45 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:14:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:15:01 [INFO]: ::1 - - [01/Jan/2026:07:15:01 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 76 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:16:11 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:16:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:17:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:17:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:17 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:17:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:17:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:17:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:17:47 [ERROR]: Something happened
+2026-01-01 09:17:47 [INFO]: ::1 - - [01/Jan/2026:07:17:47 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 76 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:18:49 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:18:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:19:02 [ERROR]: Internal server error. Please try again later.
+2026-01-01 09:19:02 [INFO]: ::1 - - [01/Jan/2026:07:19:02 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 76 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:26:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:26:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:26:14 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:26:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:26:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:26:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:26:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:26:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:27:25 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:27:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:27:36 [INFO]: 
+
+2026-01-01 09:27:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:27:43 [INFO]: 
+
+2026-01-01 09:27:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:27:51 [INFO]: 
+
+2026-01-01 09:27:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:28:40 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:28:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:28:45 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:28:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:28:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:28:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:29:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:29:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:29:57 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:29:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:30:13 [INFO]: 
+
+2026-01-01 09:30:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:30:23 [INFO]: 
+
+2026-01-01 09:30:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:30:44 [INFO]: 
+
+2026-01-01 09:30:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:31:26 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:31:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:31:39 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:31:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:32:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:32:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:32:32 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:32:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:32:48 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:32:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:32:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:32:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:32:59 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:32:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:33:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:33:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:33:16 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:33:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:33:27 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:33:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:33:43 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:33:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:33:50 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:33:50 [INFO]: ::1 - - [01/Jan/2026:07:33:50 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:35:39 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:35:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:35:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:35:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:35:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:35:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:36:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:36:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:36:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:36:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:36:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:36:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:36:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:36:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:37:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:37:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:37:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:37:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:38:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:38:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:38:46 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:38:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:39:12 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:39:12 [INFO]: ::1 - - [01/Jan/2026:07:39:12 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:39:18 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:39:18 [INFO]: ::1 - - [01/Jan/2026:07:39:18 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:39:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:39:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:39:53 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:39:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:40:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:40:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:40:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:40:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:43:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:43:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:43:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:43:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:43:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:43:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:43:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:43:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:44:49 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:44:49 [INFO]: ::1 - - [01/Jan/2026:07:44:49 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:44:53 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:44:53 [INFO]: ::1 - - [01/Jan/2026:07:44:53 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:45:32 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:45:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:45:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:45:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:46:12 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 09:46:12 [INFO]: ::1 - - [01/Jan/2026:07:46:12 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:46:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:46:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:46:59 [INFO]: ::1 - - [01/Jan/2026:07:46:59 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 265 "-" "PostmanRuntime/7.49.1"
+2026-01-01 09:57:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 09:57:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 09:57:45 [INFO]: ::1 - - [01/Jan/2026:07:57:45 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 499 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:14:34 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:14:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:14:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:14:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:14:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:14:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:14:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:14:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:19:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:19:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:21:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:21:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:22:40 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:22:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:22:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:22:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:38 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:23:57 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:23:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:24:11 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:24:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:24:21 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:24:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:24:30 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:24:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:24:48 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:24:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:24:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:24:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:25:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:25:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:25:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:25:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:28:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:28:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:28:25 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:28:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:28:48 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:28:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:29:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:29:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:29:14 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:29:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:29:20 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:29:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:29:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:29:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:30:10 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:30:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:30:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:30:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:30:25 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:30:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:30:33 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:30:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:30:39 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:30:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:31:23 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:31:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:31:32 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:31:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:31:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:31:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:31:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:31:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:31:57 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:31:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:32:06 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:32:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:32:22 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:32:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:34:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:34:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:34:22 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:34:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:34:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:34:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:34:46 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:34:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:34:53 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:34:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:39:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:39:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:40:33 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 10:40:33 [INFO]: ::1 - - [01/Jan/2026:08:40:33 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:40:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:40:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:41:34 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:41:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:41:38 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 10:41:38 [INFO]: ::1 - - [01/Jan/2026:08:41:38 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:41:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:41:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:41:57 [INFO]: ::1 - - [01/Jan/2026:08:41:57 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:42:11 [INFO]: ::1 - - [01/Jan/2026:08:42:11 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 485 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:43:17 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:43:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:43:30 [INFO]: ::1 - - [01/Jan/2026:08:43:30 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:44:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:44:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:45:06 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 10:45:06 [INFO]: ::1 - - [01/Jan/2026:08:45:06 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:45:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:45:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:46:06 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:46:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:46:25 [INFO]: ::1 - - [01/Jan/2026:08:46:25 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 482 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:47:28 [INFO]: ::1 - - [01/Jan/2026:08:47:28 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1504 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:49:20 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:49:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:49:21 [INFO]: ::1 - - [01/Jan/2026:08:49:21 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1504 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:49:36 [INFO]: ::1 - - [01/Jan/2026:08:49:36 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1504 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:50:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:50:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:50:23 [INFO]: ::1 - - [01/Jan/2026:08:50:23 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1504 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:51:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:51:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:51:39 [INFO]: ::1 - - [01/Jan/2026:08:51:39 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:53:39 [INFO]: ::1 - - [01/Jan/2026:08:53:39 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:54:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:54:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:54:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:54:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:55:03 [INFO]: ::1 - - [01/Jan/2026:08:55:03 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:55:07 [INFO]: ::1 - - [01/Jan/2026:08:55:07 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:55:33 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:55:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:55:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:55:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:55:54 [INFO]: ::1 - - [01/Jan/2026:08:55:54 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:56:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:56:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:56:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:56:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:56:26 [INFO]: ::1 - - [01/Jan/2026:08:56:26 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:56:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:56:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:58:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:58:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:58:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:58:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:58:43 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:58:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:58:45 [INFO]: ::1 - - [01/Jan/2026:08:58:45 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:59:07 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:59:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:59:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:59:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:59:20 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:59:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:59:23 [INFO]: ::1 - - [01/Jan/2026:08:59:23 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 10:59:33 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:59:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:59:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 10:59:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 10:59:52 [INFO]: ::1 - - [01/Jan/2026:08:59:52 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:00:45 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:00:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:00:48 [INFO]: ::1 - - [01/Jan/2026:09:00:48 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:02:47 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:02:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:02:50 [INFO]: ::1 - - [01/Jan/2026:09:02:50 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:26:47 [INFO]: ::1 - - [01/Jan/2026:09:26:47 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:30:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:30:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:30:32 [INFO]: ::1 - - [01/Jan/2026:09:30:32 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:32:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:32:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:32:13 [INFO]: ::1 - - [01/Jan/2026:09:32:13 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:32:39 [INFO]: ::1 - - [01/Jan/2026:09:32:39 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:33:05 [INFO]: ::1 - - [01/Jan/2026:09:33:05 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 75 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:33:18 [INFO]: ::1 - - [01/Jan/2026:09:33:18 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 75 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:34:10 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:34:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:34:17 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:34:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:34:25 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:34:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:34:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:34:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:34:46 [INFO]: ::1 - - [01/Jan/2026:09:34:46 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:37:13 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:37:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:37:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:37:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:37:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:37:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:37:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:37:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:38:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:13 [INFO]: ::1 - - [01/Jan/2026:09:38:13 +0000] "POST /api/v1/auth/signout HTTP/1.1" 500 1505 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:38:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:38:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:32 [INFO]: ::1 - - [01/Jan/2026:09:38:32 +0000] "POST /api/v1/auth/signout HTTP/1.1" 500 1515 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:38:39 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:38:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:38:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:38:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:38:57 [INFO]: ::1 - - [01/Jan/2026:09:38:57 +0000] "POST /api/v1/auth/signout HTTP/1.1" 200 52 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:39:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:39:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:40:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:40:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:40:03 [INFO]: logged Out
+2026-01-01 11:40:03 [INFO]: ::1 - - [01/Jan/2026:09:40:03 +0000] "POST /api/v1/auth/signout HTTP/1.1" 200 52 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:42:17 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:42:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:42:32 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:42:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:43:11 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:43:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:43:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:43:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:44:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:44:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:44:47 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:44:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:44:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:44:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:44:57 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:44:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:45:04 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:45:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:45:11 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:45:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:45:16 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:45:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:45:48 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:45:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:45:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:45:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:47:14 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:47:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:48:30 [INFO]: ::1 - - [01/Jan/2026:09:48:30 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:49:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:49:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:49:33 [INFO]: ::1 - - [01/Jan/2026:09:49:33 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:49:57 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:49:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:50:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:50:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:50:09 [INFO]: ::1 - - [01/Jan/2026:09:50:09 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 495 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:50:24 [INFO]: ::1 - - [01/Jan/2026:09:50:24 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:50:31 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:50:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:50:35 [INFO]: ::1 - - [01/Jan/2026:09:50:35 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:50:38 [INFO]: ::1 - - [01/Jan/2026:09:50:38 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:51:11 [INFO]: ::1 - - [01/Jan/2026:09:51:11 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:51:39 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:51:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:51:52 [INFO]: ::1 - - [01/Jan/2026:09:51:52 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:54:47 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:54:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:54:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:54:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:55:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:55:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:55:10 [INFO]: ::1 - - [01/Jan/2026:09:55:10 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 495 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:55:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:55:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:55:58 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:55:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:56:07 [INFO]: ::1 - - [01/Jan/2026:09:56:07 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:56:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:56:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:56:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:56:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:57:00 [INFO]: ::1 - - [01/Jan/2026:09:57:00 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:57:53 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:57:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:58:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:58:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:58:49 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 11:58:49 [INFO]: ::1 - - [01/Jan/2026:09:58:49 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:59:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:59:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 11:59:39 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 11:59:39 [INFO]: ::1 - - [01/Jan/2026:09:59:39 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 11:59:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 11:59:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:00:02 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-01 12:00:02 [INFO]: ::1 - - [01/Jan/2026:10:00:02 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:00:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:00:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:00:22 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:00:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:00:58 [INFO]: ::1 - - [01/Jan/2026:10:00:58 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:08:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:08:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:09:14 [INFO]: ::1 - - [01/Jan/2026:10:09:14 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:10:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:10:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:10:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:10:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:10:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:10:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:10:49 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:10:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:10:54 [INFO]: ::1 - - [01/Jan/2026:10:10:54 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 105 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:11:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:11:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:11:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:11:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:12:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:12:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:12:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:12:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:12:14 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:12:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:12:17 [INFO]: ::1 - - [01/Jan/2026:10:12:17 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:13:19 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:13:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:13:21 [INFO]: ::1 - - [01/Jan/2026:10:13:21 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:14:13 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:14:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:14:15 [INFO]: ::1 - - [01/Jan/2026:10:14:15 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 509 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:14:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:14:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:14:40 [INFO]: ::1 - - [01/Jan/2026:10:14:40 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 479 "-" "PostmanRuntime/7.49.1"
+2026-01-01 12:14:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:14:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 12:15:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 12:15:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:45:30 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:45:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:45:46 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:45:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:45:53 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:45:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:46:23 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:46:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:46:31 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:46:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:46:40 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:46:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:46:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:46:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:47:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:47:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:47:33 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:47:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:47:43 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:47:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:47:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:47:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:47:58 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:47:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:48:21 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:48:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:48:27 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:48:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:48:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:48:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:48:52 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:48:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:49:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:49:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:49:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:49:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:49:43 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:49:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:50:12 [INFO]: ::1 - - [01/Jan/2026:11:50:12 +0000] "GET / HTTP/1.1" 500 371 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 13:50:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:50:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:50:47 [INFO]: ::1 - - [01/Jan/2026:11:50:47 +0000] "GET / HTTP/1.1" 200 16 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 13:51:05 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:51:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:51:07 [INFO]: ::1 - - [01/Jan/2026:11:51:07 +0000] "GET / HTTP/1.1" 200 370 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 13:52:01 [INFO]: ::1 - - [01/Jan/2026:11:52:01 +0000] "GET / HTTP/1.1" 200 218 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 13:52:27 [INFO]: ::1 - - [01/Jan/2026:11:52:27 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 13:52:43 [INFO]: ::1 - - [01/Jan/2026:11:52:43 +0000] "GET / HTTP/1.1" 200 390 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 13:56:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:56:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:58:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 13:58:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 13:58:35 [INFO]: ::1 - - [01/Jan/2026:11:58:35 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 569 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:01:33 [INFO]: ::1 - - [01/Jan/2026:12:01:33 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 576 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:03:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:03:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:03:36 [INFO]: ::1 - - [01/Jan/2026:12:03:36 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 608 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:04:14 [INFO]: ::1 - - [01/Jan/2026:12:04:14 +0000] "POST / HTTP/1.1" 404 140 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:04:27 [INFO]: ::1 - - [01/Jan/2026:12:04:27 +0000] "GET / HTTP/1.1" 200 564 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:05:20 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:05:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:05:31 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:05:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:05:33 [INFO]: ::1 - - [01/Jan/2026:12:05:33 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 353 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:06:14 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:06:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:06:20 [INFO]: ::1 - - [01/Jan/2026:12:06:20 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 608 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:06:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:06:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:07:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:07:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:07:10 [INFO]: ::1 - - [01/Jan/2026:12:07:10 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 586 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:07:46 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:07:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:08:00 [INFO]: ::1 - - [01/Jan/2026:12:08:00 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 586 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:08:04 [INFO]: ::1 - - [01/Jan/2026:12:08:04 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:08:14 [INFO]: ::1 - - [01/Jan/2026:12:08:14 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 586 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:08:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:08:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:09:16 [INFO]: ::1 - - [01/Jan/2026:12:09:16 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 482 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:09:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:09:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:10:22 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:10:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:10:26 [INFO]: ::1 - - [01/Jan/2026:12:10:26 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:11:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:11:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:11:56 [INFO]: ::1 - - [01/Jan/2026:12:11:56 +0000] "GET / HTTP/1.1" 200 392 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-01 14:13:38 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:13:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:13:49 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:13:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:14:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:14:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:14:59 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:14:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:15:04 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:15:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:15:13 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:15:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:15:49 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:15:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:16:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:16:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:18:10 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:18:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:18:58 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:18:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:19:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:19:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:00 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:27 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:20:53 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:20:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:21:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:21:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:26:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:26:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:26:20 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:26:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:26:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:26:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:26:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:26:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:27:55 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:27:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:28:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:28:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:28:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:28:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:28:37 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:28:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:28:50 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:28:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:29:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:29:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:29:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:29:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:29:25 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:29:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:30:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:30:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:30:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:30:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:31:47 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:31:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:31:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:31:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:31:59 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:31:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:33:23 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:33:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:33:59 [INFO]: ::1 - - [01/Jan/2026:12:33:59 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:37:15 [INFO]: ::1 - - [01/Jan/2026:12:37:15 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 500 1575 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:38:02 [INFO]: ::1 - - [01/Jan/2026:12:38:02 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 500 1575 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:39:10 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:39:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:40:30 [INFO]: ::1 - - [01/Jan/2026:12:40:30 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:40:44 [INFO]: ::1 - - [01/Jan/2026:12:40:44 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:42:27 [INFO]: ::1 - - [01/Jan/2026:12:42:27 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:48:29 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:48:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:48:43 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:48:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:49:42 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:49:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:50:12 [INFO]: ::1 - - [01/Jan/2026:12:50:12 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:51:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:51:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:51:31 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:51:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:51:46 [INFO]: ::1 - - [01/Jan/2026:12:51:46 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:52:12 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:52:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:52:19 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:52:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:52:35 [INFO]: ::1 - - [01/Jan/2026:12:52:35 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 1566 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:56:30 [INFO]: ::1 - - [01/Jan/2026:12:56:30 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:57:30 [INFO]: ::1 - - [01/Jan/2026:12:57:30 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 401 30 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:58:27 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:58:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:58:34 [INFO]: ::1 - - [01/Jan/2026:12:58:34 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 500 1557 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:58:40 [INFO]: ::1 - - [01/Jan/2026:12:58:40 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 500 1557 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:59:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 14:59:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 14:59:06 [INFO]: ::1 - - [01/Jan/2026:12:59:06 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 400 172 "-" "PostmanRuntime/7.49.1"
+2026-01-01 14:59:36 [INFO]: ::1 - - [01/Jan/2026:12:59:36 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 500 410 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:00:04 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:00:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:00:09 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:00:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:00:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:00:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:00:19 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:00:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:00:23 [INFO]: ::1 - - [01/Jan/2026:13:00:23 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 401 71 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:00:36 [INFO]: ::1 - - [01/Jan/2026:13:00:36 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 401 71 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:01:12 [INFO]: ::1 - - [01/Jan/2026:13:01:12 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 588 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:01:30 [INFO]: ::1 - - [01/Jan/2026:13:01:30 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:02:14 [INFO]: ::1 - - [01/Jan/2026:13:02:14 +0000] "PATCH /api/v1/auth/change-password HTTP/1.1" 200 63 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:03:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:03:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:04:04 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:04:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:07:34 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:07:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:11:15 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:11:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:11:51 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:11:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:12:03 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:12:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:12:37 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:12:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:14:07 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:14:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:14:24 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:14:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:14:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:14:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:14:59 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:14:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:15:08 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:15:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:15:26 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:15:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:16:43 [INFO]: ::1 - - [01/Jan/2026:13:16:43 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 500 64 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:19:41 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:19:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:19:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:19:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:19:59 [INFO]: ::1 - - [01/Jan/2026:13:19:59 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 400 107 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:20:28 [INFO]: ::1 - - [01/Jan/2026:13:20:28 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 400 107 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:21:43 [INFO]: ::1 - - [01/Jan/2026:13:21:43 +0000] "POST /api/v1/auth/signin HTTP/1.1" 401 46 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:22:11 [INFO]: ::1 - - [01/Jan/2026:13:22:11 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 588 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:22:42 [INFO]: ::1 - - [01/Jan/2026:13:22:42 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 400 1248 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:22:49 [INFO]: ::1 - - [01/Jan/2026:13:22:49 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 500 64 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:22:55 [INFO]: ::1 - - [01/Jan/2026:13:22:55 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 500 64 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:23:14 [INFO]: ::1 - - [01/Jan/2026:13:23:14 +0000] "POST /api/v1/auth/forgot-password HTTP/1.1" 500 64 "-" "PostmanRuntime/7.49.1"
+2026-01-01 15:52:22 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:52:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:53:54 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:53:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:54:35 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:54:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:54:38 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:54:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:55:02 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:55:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:55:49 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:55:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:56:01 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:56:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:56:21 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:56:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:57:45 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:57:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:58:21 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:58:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 15:58:32 [INFO]: ✅ Connected to MongoDB
+2026-01-01 15:58:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:00:59 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:00:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:04:18 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:04:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:07:38 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:07:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:15:08 [INFO]: ::1 - - [01/Jan/2026:14:15:08 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.49.1"
+2026-01-01 16:15:59 [INFO]: ::1 - - [01/Jan/2026:14:15:59 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 72 "-" "PostmanRuntime/7.49.1"
+2026-01-01 16:17:34 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:17:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:17:44 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:17:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:17:56 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:17:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:07 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:10 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:16 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:19 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:28 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:36 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:18:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:18:45 [INFO]: ::1 - - [01/Jan/2026:14:18:45 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 55 "-" "PostmanRuntime/7.49.1"
+2026-01-01 16:19:27 [INFO]: ✅ Connected to MongoDB
+2026-01-01 16:19:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-01 16:19:35 [INFO]: ::1 - - [01/Jan/2026:14:19:35 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 55 "-" "PostmanRuntime/7.49.1"
+2026-01-01 16:19:39 [INFO]: ::1 - - [01/Jan/2026:14:19:39 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 55 "-" "PostmanRuntime/7.49.1"
+2026-01-02 06:50:11 [INFO]: ✅ Connected to MongoDB
+2026-01-02 06:50:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 06:50:21 [INFO]: ✅ Connected to MongoDB
+2026-01-02 06:50:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 06:58:58 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 06:58:58 [INFO]: ::1 - - [02/Jan/2026:04:58:58 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:00:54 [INFO]: ::1 - - [02/Jan/2026:05:00:54 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:01:08 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 07:01:08 [INFO]: ::1 - - [02/Jan/2026:05:01:08 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:01:56 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:01:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:01:59 [INFO]: ::1 - - [02/Jan/2026:05:01:59 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 624 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:02:39 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:02:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:02:55 [INFO]: ::1 - - [02/Jan/2026:05:02:55 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 624 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:03:37 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:03:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:14:06 [INFO]: ::1 - - [02/Jan/2026:05:14:06 +0000] "GET / HTTP/1.1" 200 392 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:16:12 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:16:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:16:32 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:16:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:16:37 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:16:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:16:46 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:16:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:17:17 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:17:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:19:02 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:19:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:19:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:19:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:20:09 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:20:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:20:46 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:20:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:20:55 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:20:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:21:12 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:21:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:21:27 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:21:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:21:59 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:21:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:22:10 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:22:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:23:43 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:23:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:24:01 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 07:24:01 [INFO]: ::1 - - [02/Jan/2026:05:24:01 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:24:17 [INFO]: ::1 - - [02/Jan/2026:05:24:17 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:25:10 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:25:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:25:19 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:25:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:25:28 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 07:25:28 [INFO]: ::1 - - [02/Jan/2026:05:25:28 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:25:30 [INFO]: ::1 - - [02/Jan/2026:05:25:30 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:25:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:25:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:26:04 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 07:26:04 [INFO]: ::1 - - [02/Jan/2026:05:26:04 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:26:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:26:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:26:47 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:26:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:26:59 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:26:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:27:05 [INFO]: ::1 - - [02/Jan/2026:05:27:05 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 367 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:27:25 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:27:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:27:32 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:27:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:27:51 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:27:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:28:12 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:28:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:28:30 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-02 07:28:30 [INFO]: ::1 - - [02/Jan/2026:05:28:30 +0000] "POST /api/v1/auth/signup HTTP/1.1" 500 114 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:33:36 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:33:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:34:03 [INFO]: ::1 - - [02/Jan/2026:05:34:03 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 588 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:34:34 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:34:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:34:46 [INFO]: ::1 - - [02/Jan/2026:05:34:46 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 343 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:36:38 [INFO]: ::1 - - [02/Jan/2026:05:36:38 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:47:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:47:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:50:47 [INFO]: ::1 - - [02/Jan/2026:05:50:47 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:50:55 [INFO]: ::1 - - [02/Jan/2026:05:50:55 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:51:36 [INFO]: ::1 - - [02/Jan/2026:05:51:36 +0000] "POST /api/v1/board/onboard HTTP/1.1" 400 54 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:52:07 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:52:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:52:11 [INFO]: ::1 - - [02/Jan/2026:05:52:11 +0000] "POST /api/v1/board/onboard HTTP/1.1" 500 435 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:53:19 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:53:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:53:22 [INFO]: ::1 - - [02/Jan/2026:05:53:22 +0000] "POST /api/v1/board/onboard HTTP/1.1" 500 435 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:54:20 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:54:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:54:32 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:54:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:54:42 [INFO]: ::1 - - [02/Jan/2026:05:54:42 +0000] "POST /api/v1/board/onboard HTTP/1.1" 201 188 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:56:32 [INFO]: ::1 - - [02/Jan/2026:05:56:32 +0000] "GET / HTTP/1.1" 200 392 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:56:59 [INFO]: ::1 - - [02/Jan/2026:05:56:59 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 492 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:57:58 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:57:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:58:00 [INFO]: ::1 - - [02/Jan/2026:05:58:00 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 749 "-" "PostmanRuntime/7.51.0"
+2026-01-02 07:58:39 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:58:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:59:18 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:59:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:59:26 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:59:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:59:39 [INFO]: ✅ Connected to MongoDB
+2026-01-02 07:59:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 07:59:43 [INFO]: ::1 - - [02/Jan/2026:05:59:43 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 675 "-" "PostmanRuntime/7.51.0"
+2026-01-02 08:00:04 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:00:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:00:35 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:00:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:01:03 [INFO]: ::1 - - [02/Jan/2026:06:01:03 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 341 "-" "PostmanRuntime/7.51.0"
+2026-01-02 08:02:29 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:02:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:02:49 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:02:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:03:00 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:03:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:03:27 [INFO]: ::1 - - [02/Jan/2026:06:03:27 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 511 "-" "PostmanRuntime/7.51.0"
+2026-01-02 08:03:45 [INFO]: ::1 - - [02/Jan/2026:06:03:45 +0000] "GET / HTTP/1.1" 200 565 "-" "PostmanRuntime/7.51.0"
+2026-01-02 08:04:18 [INFO]: ::1 - - [02/Jan/2026:06:04:18 +0000] "GET / HTTP/1.1" 200 565 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-02 08:15:46 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:15:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:15:48 [INFO]: ::1 - - [02/Jan/2026:06:15:48 +0000] "GET / HTTP/1.1" 200 16 "-" "PostmanRuntime/7.51.0"
+2026-01-02 08:16:09 [INFO]: ✅ Connected to MongoDB
+2026-01-02 08:16:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 08:16:10 [INFO]: ::1 - - [02/Jan/2026:06:16:10 +0000] "GET / HTTP/1.1" 200 565 "-" "PostmanRuntime/7.51.0"
+2026-01-02 09:18:47 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:18:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:21:10 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:21:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:23:48 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:23:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:23:58 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:23:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:24:09 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:24:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:24:45 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:24:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:25:49 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:25:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:25:59 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:25:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:26:11 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:26:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:26:54 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:26:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:27:01 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:27:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:27:19 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:27:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:27:27 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:27:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:28:20 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:28:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:29:08 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:29:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:34:02 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:34:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:34:25 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:34:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:37:14 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:37:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 09:57:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 09:57:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:02:23 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:02:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:02:49 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:02:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:03:26 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:03:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:03:44 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:03:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:04:48 [INFO]: ::1 - - [02/Jan/2026:08:04:48 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:05:18 [INFO]: ::1 - - [02/Jan/2026:08:05:18 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:05:26 [INFO]: ::1 - - [02/Jan/2026:08:05:26 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:06:33 [INFO]: ::1 - - [02/Jan/2026:08:06:33 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:07:42 [INFO]: ::1 - - [02/Jan/2026:08:07:42 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 507 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:07:50 [INFO]: ::1 - - [02/Jan/2026:08:07:50 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:08:31 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:08:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:08:56 [INFO]: ::1 - - [02/Jan/2026:08:08:56 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:11:13 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:11:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:11:20 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:11:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:11:40 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:11:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:11:44 [INFO]: ::1 - - [02/Jan/2026:08:11:44 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:11:56 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:11:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:12:11 [INFO]: ::1 - - [02/Jan/2026:08:12:11 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:13:31 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:13:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:13:34 [INFO]: ::1 - - [02/Jan/2026:08:13:34 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:13:54 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:13:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:14:32 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:14:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:15:25 [INFO]: ::1 - - [02/Jan/2026:08:15:25 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:18:11 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:18:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:19:25 [INFO]: ::1 - - [02/Jan/2026:08:19:25 +0000] "POST /api/v1/auth/profile HTTP/1.1" 404 159 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:19:37 [INFO]: ::1 - - [02/Jan/2026:08:19:37 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 244 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:20:45 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:20:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:20:53 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:20:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:21:09 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:21:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:21:16 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:21:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:21:38 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:21:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:21:42 [INFO]: ::1 - - [02/Jan/2026:08:21:42 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:22:10 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:22:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:22:18 [INFO]: ::1 - - [02/Jan/2026:08:22:18 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:23:15 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:23:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:23:19 [INFO]: ::1 - - [02/Jan/2026:08:23:19 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:23:26 [INFO]: ::1 - - [02/Jan/2026:08:23:26 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:24:03 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:24:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:24:08 [INFO]: ::1 - - [02/Jan/2026:08:24:08 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:25:57 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:25:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:25:59 [INFO]: ::1 - - [02/Jan/2026:08:25:59 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 227 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:26:47 [INFO]: ::1 - - [02/Jan/2026:08:26:47 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 227 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:27:02 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:27:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:27:05 [INFO]: ::1 - - [02/Jan/2026:08:27:05 +0000] "GET /api/v1/auth/profile HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:27:15 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:27:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:27:30 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:27:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:27:35 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:27:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:27:39 [INFO]: ::1 - - [02/Jan/2026:08:27:39 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 174 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:28:09 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:28:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:28:10 [INFO]: ::1 - - [02/Jan/2026:08:28:10 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 181 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:28:31 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:28:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:28:44 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:28:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:28:54 [INFO]: ::1 - - [02/Jan/2026:08:28:54 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 222 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:29:31 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:29:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:29:36 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:29:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:29:38 [INFO]: ::1 - - [02/Jan/2026:08:29:38 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 189 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:30:01 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:30:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:30:02 [INFO]: ::1 - - [02/Jan/2026:08:30:02 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 222 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:30:33 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:30:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:30:41 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:30:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:30:44 [INFO]: ::1 - - [02/Jan/2026:08:30:44 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 222 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:31:24 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:31:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:31:26 [INFO]: ::1 - - [02/Jan/2026:08:31:26 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 222 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:31:57 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:31:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-02 10:32:01 [INFO]: ::1 - - [02/Jan/2026:08:32:01 +0000] "GET /api/v1/auth/profile HTTP/1.1" 200 215 "-" "PostmanRuntime/7.51.0"
+2026-01-02 10:32:56 [INFO]: ✅ Connected to MongoDB
+2026-01-02 10:32:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-04 10:08:35 [INFO]: ✅ Connected to MongoDB
+2026-01-04 10:08:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-04 10:08:59 [INFO]: ::1 - - [04/Jan/2026:08:08:59 +0000] "GET / HTTP/1.1" 200 546 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:12:00 [INFO]: ::1 - - [04/Jan/2026:08:12:00 +0000] "GET /api/v1/auth HTTP/1.1" 404 150 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:12:11 [INFO]: ::1 - - [04/Jan/2026:08:12:11 +0000] "POST /api/v1/auth HTTP/1.1" 404 151 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:12:23 [INFO]: ::1 - - [04/Jan/2026:08:12:23 +0000] "POST /api/v1/auth/signin HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:12:37 [INFO]: ::1 - - [04/Jan/2026:08:12:37 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 511 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:12:48 [INFO]: ::1 - - [04/Jan/2026:08:12:48 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:14:05 [INFO]: ✅ Connected to MongoDB
+2026-01-04 10:14:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-04 10:14:26 [INFO]: ✅ Connected to MongoDB
+2026-01-04 10:14:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-04 10:14:27 [INFO]: ::1 - - [04/Jan/2026:08:14:27 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:16:12 [INFO]: ✅ Connected to MongoDB
+2026-01-04 10:16:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-04 10:16:17 [INFO]: ::1 - - [04/Jan/2026:08:16:17 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:19:13 [INFO]: ::1 - - [04/Jan/2026:08:19:13 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:20:25 [INFO]: ::1 - - [04/Jan/2026:08:20:25 +0000] "GET / HTTP/1.1" 200 374 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:20:51 [INFO]: ::1 - - [04/Jan/2026:08:20:51 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 72 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:21:03 [INFO]: ::1 - - [04/Jan/2026:08:21:03 +0000] "GET / HTTP/1.1" 200 374 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:22:28 [INFO]: ::1 - - [04/Jan/2026:08:22:28 +0000] "GET / HTTP/1.1" 200 201 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:22:45 [INFO]: ::1 - - [04/Jan/2026:08:22:45 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 494 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:23:49 [INFO]: ::1 - - [04/Jan/2026:08:23:49 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 89 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:23:58 [INFO]: ::1 - - [04/Jan/2026:08:23:58 +0000] "POST /api/v1/board/onboard HTTP/1.1" 201 188 "-" "PostmanRuntime/7.51.0"
+2026-01-04 10:25:05 [INFO]: ✅ Connected to MongoDB
+2026-01-04 10:25:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-22 10:41:34 [INFO]: ✅ Connected to MongoDB
+2026-01-22 10:41:34 [INFO]: 🚀 Server running on http://localhost:8000
