@@ -1,24 +1,17 @@
-import jwt from "jsonwebtoken";
 import dotenv from "dotenv";
-
-import doHash, { decryptHashedPassword } 
-  from "../utilities/hashingPaswords.js";
-
-import { signUpSchema, signInSchema, updateUserModelSchema } 
-  from "../middlewares/validateUserModel.js";
-
+import jwt from "jsonwebtoken";
+import doHash, { decryptHashedPassword } from "../utilities/hashingPaswords.js";
 import { 
-  changePasswordSchema, 
-  sendCodeSchema, 
-  acceptForgotPasswordSchema,
-  onBoardingSchema
-} from "../middlewares/validateUsertaxDetails.js";
+  signUpSchema, signInSchema, 
+  changePasswordSchema, sendCodeSchema, 
+  acceptForgotPasswordSchema,  updateUserModelSchema 
+} from "../validators/validateUserModel.js";
+
 
 import logger from "../config/logger.js";
 import UserModel from "../models/userModel.js";
-import UserTaxDetails from "../models/userTaxDetails.js";
 import sendEmail from "../middlewares/sendEmail.js";
-
+import { withTransaction } from "../utilities/withTranaction.js";
 
 
 dotenv.config();
@@ -108,15 +101,7 @@ export const signUp = async (request, response) => {
     });
   }
 };
-// | Level     | Meaning        | Used For                                   |
-// | --------- | -------------- | ------------------------------------------ |
-// | `error`   | Most severe    | Crashes, failed DB connections, exceptions |
-// | `warn`    | Warnings       | Deprecations, potential issues             |
-// | `info`    | General info   | Server start, successful requests          |
-// | `http`    | Request info   | (Optional) API calls, HTTP events          |
-// | `verbose` | Detailed info  | Step-by-step actions                       |
-// | `debug`   | Developer logs | Troubleshooting and local debugging        |
-// | `silly`   | Least severe   | Extra noise for deep inspection            |
+
 
 export const signIn = async (request, response) => {
     const { email, password} = request.body;
@@ -150,13 +135,14 @@ export const signIn = async (request, response) => {
      // Create tokens
     const accessToken = jwt.sign(
       {
+        role: existingUser.role,
         userId: existingUser._id,
         email: existingUser.email,
-      
       },
       process.env.SECRET_ACCESS_TOKEN,
-      { expiresIn: "15m" }
+      { expiresIn: "6000s" }
     );
+    console.log(accessToken.userid)
 
     const refreshToken = jwt.sign(
       { userId: existingUser._id },
@@ -183,7 +169,6 @@ export const signIn = async (request, response) => {
     response.json({
       success: true,
       message: "Logged In successfully",
-      // result: result,
       accessToken: accessToken,
       // refreshToken: refreshToken,
     });
@@ -215,6 +200,8 @@ export async function signOut(request, response) {
     });
 };
 
+
+
 export const changePassword = async ( request, response) => {
   const { userId } = request.user;
   const { oldPassword, newPassword } = request.body
@@ -243,15 +230,26 @@ export const changePassword = async ( request, response) => {
         message: "Invalid credentials",
       });
     }
+    if (isMatch) {
+      if (oldPassword === newPassword) {
+        return response.status(401).json({
+          field: "oldPassword",
+          success: false,
+          message: "New password matches the old password, try a different one",
+        });
+      } else {
+        // ✅ 4. Hash and update new password
+        existingUser.password = await doHash(newPassword, 12);
+        await existingUser.save();
 
-    // ✅ 4. Hash and update new password
-    existingUser.password = await doHash(newPassword, 12);
-    await existingUser.save();
+        return response.status(200).json({
+          success: true,
+          message: "🔒 Password updated successfully",
+        });
+      }
+    }
 
-    return response.status(200).json({
-      success: true,
-      message: "🔒 Password updated successfully",
-    });
+    
 
   } catch (error) {
       console.error("❌ changePassword Error:", error);
@@ -449,29 +447,46 @@ export const verifySendForgotPasswordCode = async (req, res) =>  {
   }
 }
 
+
+
 // // ✅ View Mentor Profile
 export const viewProfile = async (request, response) => {
-    const {_id} = request.query;
+    const {_id, } = request.query;
+    const { userId } = request.user
 
     try {
-        const userProfile = await UserTaxDetails.findOne({_id})
-          .populate({
-              path: "userId",
-              select: ["email", "type", "name", "avatar"]
-          })
-
+        const userProfile = await UserModel.findOne({_id})
+          // .populate({
+          //     path: "userId",
+          //     select: ["email", "type", "name", "avatar"]
+          // })
+          
         if (!userProfile) {
             return response.status(400).json({
                 success: false,
                 message: "Profile doesn't exist, create One!"
             })
         }
+        // Check if userId in onboard profile belobngs to UserId
+        if (userProfile) {
+          // console.log(userId)
+          // console.log(userProfile._id)
 
-        response.status(200).json({
-            success: true,
-            message: "single profile",
-            profile: userProfile
-        })
+          if (userId === userProfile._id.toString()) {
+            response.status(200).json({
+                success: true,
+                message: "single profile",
+                profile: userProfile
+            })
+          } else if (userId !== userProfile.userId.toString()) {
+            response.status(200).json({
+                success: false,
+                message: "Unauthorized, profile doesn't belong to user!!",
+            })
+          }
+        }
+
+        
     } catch (error) {
         console.log(error)
         return response.status(500).json({
@@ -486,7 +501,7 @@ export const viewProfile = async (request, response) => {
 export const updateProfile = async (request, response) => {
   const {_id} = request.query;
   const { name, email, avatar } = request.body;
-  // ✅const { userId } = request.user;  Comes from JWT payload
+  const { userId } = request.user; // ✅  Comes from JWT payload
 
   try{
       const {value, error } = updateUserModelSchema.validate({
@@ -506,23 +521,29 @@ export const updateProfile = async (request, response) => {
               message: "Profile doesn't exist, create one !"
           });
       }
-      /** 
-      if (existingProfile.userId.toString() !== userId) {
+      /** */
+      if (userId !== existingProfile._id.toString()) {
             return response.status(403).json({
               success: false,
               message: "Unauthorized, login is required!"
           });
-      }*/
-      existingProfile.name = name;
-      existingProfile.email = email;
-      existingProfile.avatar = avatar
+      } else if (existingProfile._id.toString() === userId) {
+        // testing
+        // console.log(userId)
+        // console.log(existingProfile._id)
 
-      const updatedProfile = await existingProfile.save()
-      response.status(200).json({
-          success: true,
-          message: "Profile was updated!",
-          updatedProfile: updatedProfile,
-      })
+        existingProfile.name = name || existingProfile.name;
+        existingProfile.email = email || existingProfile.email;
+        existingProfile.avatar = avatar || existingProfile.avatar;
+
+        const updatedProfile = await existingProfile.save()
+        response.status(200).json({
+            success: true,
+            message: "Profile was updated!",
+            updatedProfile: updatedProfile,
+        })
+      }
+     
   } catch(error) {
       //console.log(error);
       return response.status(500).json({
@@ -536,7 +557,7 @@ export const updateProfile = async (request, response) => {
 
 export const deleteProfile = async (request, response) => {
     const {_id} = request.query;
-    // const {userId} = request.user;
+    const {userId} = request.user;
 
     try {
         const existingProfile = await UserModel.findOne({_id})
@@ -546,18 +567,21 @@ export const deleteProfile = async (request, response) => {
                 message: "User doesn't exist!"
             })
         }
-        /** 
-        if (existingProfile.userId.toString() !== userId) {
+        /** */
+        if (userId !== existingProfile._id.toString()) {
             return response.status(403).json({
                 success: false,
                 message: "Unauthorized"
             })
-        }*/
-        await UserModel.deleteOne({_Id})
-        response.status(201).json({
-            success: true,
-            message: "Account delete successfully"
-        })
+        } else if (userId === existingProfile._id.toString()) {
+          // console.log(userId)
+          // console.log(existingProfile._id.toString())
+          await UserModel.deleteOne({_Id})
+          response.status(201).json({
+              success: true,
+              message: "Account delete successfully"
+          })
+        } 
     } catch(error) {
         return response.status(500).json({
             success: false,

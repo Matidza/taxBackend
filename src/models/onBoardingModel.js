@@ -1,23 +1,17 @@
-// models/UserOnboarding.js
 import mongoose from "mongoose";
 
 const userOnboardingSchema = new mongoose.Schema(
   {
-    user: {
+    userId: {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "User",
+      ref: "UserModel",
       required: true,
     },
 
-    taxYear: {
-      type: Number,
-      required: true,
-      index: true,
-    },
-
-    taxpayerType: {
+    role: {
       type: String,
-      enum: ["individual", "business", "tax_practitioner"],
+      enum: ["tax_payer", "business", "tax_practitioner", "admin"],
+      default: "tax_payer",
       required: true,
     },
 
@@ -25,18 +19,22 @@ const userOnboardingSchema = new mongoose.Schema(
       type: String,
       minlength: 13,
       maxlength: 13,
+      select: false,
+      required: function () { return this.role === "tax_payer"; },
     },
 
     sarsTaxNumber: {
       type: String,
       minlength: 10,
       maxlength: 10,
+      required: true,
     },
 
     vatNumber: {
       type: String,
       minlength: 10,
       maxlength: 10,
+      required: function () { return this.role === "business"; },
     },
 
     businessStructure: {
@@ -49,6 +47,12 @@ const userOnboardingSchema = new mongoose.Schema(
         "partnership",
         "trust",
       ],
+      default: "individual",
+    },
+
+    isLivingTrust: {
+      type: Boolean,
+      default: false,
     },
 
     financialYearEnd: {
@@ -57,7 +61,15 @@ const userOnboardingSchema = new mongoose.Schema(
       default: "February",
     },
 
-    estimatedAnnualIncome: Number,
+    accountingIntegration: {
+      type: String,
+      enum: ["manual", "xero", "sage", "quickbooks", "pastel"],
+      default: "manual",
+    },
+
+    estimatedAnnualIncome: {
+      type: Number,
+    },
 
     managedTaxes: [
       {
@@ -65,17 +77,8 @@ const userOnboardingSchema = new mongoose.Schema(
         enum: ["ITR12", "ITR14", "VAT201", "EMP201", "EMP501", "IRP6"],
       },
     ],
-
-    accountingIntegration: {
-      type: String,
-      enum: ["manual", "xero", "sage", "quickbooks", "pastel"],
-      default: "manual",
-    },
   },
   { timestamps: true }
 );
-
-// 🔒 One onboarding per user per tax year
-userOnboardingSchema.index({ user: 1, taxYear: 1 }, { unique: true });
 
 export default mongoose.model("UserOnboarding", userOnboardingSchema);

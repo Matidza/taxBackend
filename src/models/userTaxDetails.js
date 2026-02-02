@@ -2,9 +2,9 @@ import mongoose from "mongoose";
 
 const userTaxDocumentSchema = new mongoose.Schema(
   {
-    user: {
+    userId: {
       type: mongoose.Schema.Types.ObjectId,
-      ref: "User",
+      ref: "UserModel",
       required: true,
     },
 
@@ -17,6 +17,7 @@ const userTaxDocumentSchema = new mongoose.Schema(
     taxYear: {
       type: Number,
       required: true,
+      index: true,
     },
 
     documentType: {
@@ -28,6 +29,7 @@ const userTaxDocumentSchema = new mongoose.Schema(
         "retirement_annuity",
         "vat_invoice",
         "bank_statement",
+        "trust_deed",
         "other",
       ],
       required: true,
@@ -38,12 +40,21 @@ const userTaxDocumentSchema = new mongoose.Schema(
       required: true,
     },
 
-    uploadedAt: {
+    status: {
+      type: String,
+      enum: ["pending", "submitted", "processed", "approved"],
+      default: "pending",
+    },
+
+    submittedAt: {
       type: Date,
       default: Date.now,
     },
   },
   { timestamps: true }
 );
+
+// Unique per user per tax year per document type
+userTaxDocumentSchema.index({ userId: 1, taxYear: 1, documentType: 1 }, { unique: true });
 
 export default mongoose.model("UserTaxDocument", userTaxDocumentSchema);

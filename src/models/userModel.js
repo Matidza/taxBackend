@@ -13,11 +13,11 @@ const userSchema = new mongoose.Schema(
 
     role: {
       type: String,
-      enum: ["individual", "business", "tax_practitioner", "admin"],
-      default: "individual",
+      enum: ["tax_payer", "business", "tax_practitioner", "admin"],
+      default: "tax_payer",
     },
 
-    fullName: {
+    name: {
       type: String,
       trim: true,
     },
@@ -38,6 +38,6 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("User", userSchema);
+export default mongoose.model("UserModel", userSchema);
 
 

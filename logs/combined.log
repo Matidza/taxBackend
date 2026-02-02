@@ -1118,3 +1118,1251 @@
 2026-01-22 11:33:34 [INFO]: 🚀 Server running on http://localhost:8000
 2026-01-22 11:38:47 [INFO]: ✅ Connected to MongoDB
 2026-01-22 11:38:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-22 12:06:18 [INFO]: ✅ Connected to MongoDB
+2026-01-22 12:06:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-22 12:07:22 [INFO]: ::1 - - [22/Jan/2026:10:07:22 +0000] "GET / HTTP/1.1" 200 28 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-22 12:07:23 [INFO]: ::1 - - [22/Jan/2026:10:07:23 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0"
+2026-01-26 20:17:16 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:17:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:20:24 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:20:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:20:54 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:20:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:22:45 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:22:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:23:21 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:23:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:27:45 [INFO]: ::1 - - [26/Jan/2026:18:27:45 +0000] "POST /api/v1/signup HTTP/1.1" 404 153 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:29:12 [INFO]: ::1 - - [26/Jan/2026:18:29:12 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 499 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:32:16 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:32:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:32:18 [INFO]: ::1 - - [26/Jan/2026:18:32:18 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 473 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:32:34 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:32:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:32:38 [INFO]: ::1 - - [26/Jan/2026:18:32:38 +0000] "POST /api/v1/auth/signin HTTP/1.1" 500 74 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:33:11 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:33:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:33:18 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:33:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:33:21 [INFO]: ::1 - - [26/Jan/2026:18:33:21 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 741 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:35:02 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:35:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:35:50 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:35:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:36:19 [INFO]: ::1 - - [26/Jan/2026:18:36:19 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:36:48 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:36:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:36:51 [INFO]: ::1 - - [26/Jan/2026:18:36:51 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 390 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:37:10 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:37:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:37:17 [INFO]: ::1 - - [26/Jan/2026:18:37:17 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:42:39 [INFO]: ::1 - - [26/Jan/2026:18:42:39 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:46:32 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:46:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:46:38 [INFO]: ::1 - - [26/Jan/2026:18:46:38 +0000] "POST /onboarding HTTP/1.1" 404 150 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:47:33 [INFO]: ::1 - - [26/Jan/2026:18:47:33 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 20:52:01 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:52:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:52:29 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:52:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:55:04 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:55:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:56:42 [INFO]: ✅ Connected to MongoDB
+2026-01-26 20:56:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 20:59:58 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:00:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:00:10 [INFO]: ::1 - - [26/Jan/2026:19:00:10 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:00:54 [INFO]: ::1 - - [26/Jan/2026:19:00:54 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:01:46 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:01:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:02:00 [INFO]: ::1 - - [26/Jan/2026:19:02:00 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:47:13 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:47:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:47:39 [INFO]: ::1 - - [26/Jan/2026:19:47:39 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:48:08 [INFO]: ::1 - - [26/Jan/2026:19:48:08 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:48:39 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:48:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:48:42 [INFO]: ::1 - - [26/Jan/2026:19:48:42 +0000] "POST /onboarding/create HTTP/1.1" 500 1570 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:49:30 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:49:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:52:03 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:52:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:52:57 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:52:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:53:22 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:53:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:54:00 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:54:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:54:20 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:54:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:54:58 [INFO]: ::1 - - [26/Jan/2026:19:54:58 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:55:25 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:55:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:55:27 [INFO]: ::1 - - [26/Jan/2026:19:55:27 +0000] "POST /onboarding/create HTTP/1.1" 500 1570 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:55:42 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:55:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:56:46 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:56:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:57:45 [INFO]: ::1 - - [26/Jan/2026:19:57:45 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 21:59:03 [INFO]: ✅ Connected to MongoDB
+2026-01-26 21:59:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 21:59:16 [INFO]: ::1 - - [26/Jan/2026:19:59:16 +0000] "POST /onboarding/create HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:01:27 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:01:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:01:34 [INFO]: ::1 - - [26/Jan/2026:20:01:34 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:01:51 [INFO]: ::1 - - [26/Jan/2026:20:01:51 +0000] "POST /onboarding/create HTTP/1.1" 400 93 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:02:43 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:02:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:03:26 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:03:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:03:33 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:03:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:03:35 [INFO]: ::1 - - [26/Jan/2026:20:03:35 +0000] "POST /onboarding/create HTTP/1.1" 400 61 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:04:17 [INFO]: ::1 - - [26/Jan/2026:20:04:17 +0000] "POST /onboarding/create HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:05:42 [INFO]: ::1 - - [26/Jan/2026:20:05:42 +0000] "POST /onboarding/create HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:05:47 [INFO]: ::1 - - [26/Jan/2026:20:05:47 +0000] "POST /onboarding/create HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:05:58 [INFO]: ::1 - - [26/Jan/2026:20:05:58 +0000] "POST /onboarding/create HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:06:35 [INFO]: ::1 - - [26/Jan/2026:20:06:35 +0000] "POST /onboarding/create HTTP/1.1" 400 51 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:07:56 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:07:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:08:46 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:08:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:08:53 [INFO]: ::1 - - [26/Jan/2026:20:08:53 +0000] "POST /onboarding/create HTTP/1.1" 400 51 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:08:59 [INFO]: ::1 - - [26/Jan/2026:20:08:59 +0000] "POST /onboarding/create HTTP/1.1" 400 51 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:09:30 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:09:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:09:40 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:09:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:09:46 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:09:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:09:52 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:09:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:10:01 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:10:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:10:04 [INFO]: ::1 - - [26/Jan/2026:20:10:04 +0000] "POST /onboarding/create HTTP/1.1" 400 51 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:10:33 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:10:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:10:39 [INFO]: ::1 - - [26/Jan/2026:20:10:39 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:11:53 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:11:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:12:42 [INFO]: ::1 - - [26/Jan/2026:20:12:42 +0000] "POST /onboarding/create HTTP/1.1" 201 401 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:14:07 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:14:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:14:41 [INFO]: ::1 - - [26/Jan/2026:20:14:41 +0000] "POST /onboarding/view HTTP/1.1" 404 155 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:15:05 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:15:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:15:55 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:15:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:16:04 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:16:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:16:06 [INFO]: ::1 - - [26/Jan/2026:20:16:06 +0000] "GET /onboarding/view HTTP/1.1" 400 74 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:16:31 [INFO]: ::1 - - [26/Jan/2026:20:16:31 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 398 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:17:09 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:17:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:17:14 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:17:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:17:33 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:17:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:17:44 [INFO]: ::1 - - [26/Jan/2026:20:17:44 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:17:51 [INFO]: ::1 - - [26/Jan/2026:20:17:51 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:18:05 [INFO]: ::1 - - [26/Jan/2026:20:18:05 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 432 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:18:51 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:18:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:18:53 [INFO]: ::1 - - [26/Jan/2026:20:18:53 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 431 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:19:16 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:19:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:19:18 [INFO]: ::1 - - [26/Jan/2026:20:19:18 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 437 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:20:09 [INFO]: ::1 - - [26/Jan/2026:20:20:09 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 509 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:20:42 [INFO]: ::1 - - [26/Jan/2026:20:20:42 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 502 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:21:35 [INFO]: ::1 - - [26/Jan/2026:20:21:35 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:23:26 [INFO]: ::1 - - [26/Jan/2026:20:23:26 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:24:37 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:24:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:24:48 [INFO]: ::1 - - [26/Jan/2026:20:24:48 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:25:04 [INFO]: ::1 - - [26/Jan/2026:20:25:04 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:25:21 [INFO]: ::1 - - [26/Jan/2026:20:25:21 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 502 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:25:42 [INFO]: ::1 - - [26/Jan/2026:20:25:42 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:27:13 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:27:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:27:20 [INFO]: ::1 - - [26/Jan/2026:20:27:20 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:27:26 [INFO]: ::1 - - [26/Jan/2026:20:27:26 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:27:48 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:27:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:28:37 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:28:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:28:39 [INFO]: ::1 - - [26/Jan/2026:20:28:39 +0000] "POST /onboarding/create HTTP/1.1" 400 76 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:28:57 [INFO]: ::1 - - [26/Jan/2026:20:28:57 +0000] "POST /onboarding/create HTTP/1.1" 201 401 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:29:37 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:29:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:29:42 [INFO]: ::1 - - [26/Jan/2026:20:29:42 +0000] "POST /onboarding/create HTTP/1.1" 400 87 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:30:03 [INFO]: ::1 - - [26/Jan/2026:20:30:03 +0000] "POST /api/v1/auth/signup HTTP/1.1" 400 91 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:30:03 [ERROR]: Internal server error (Back-end server/Database has issues). Please try again later.
+2026-01-26 22:30:15 [INFO]: ::1 - - [26/Jan/2026:20:30:15 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 505 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:30:24 [INFO]: ::1 - - [26/Jan/2026:20:30:24 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 501 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:30:44 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:30:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:31:06 [INFO]: ::1 - - [26/Jan/2026:20:31:06 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:31:30 [INFO]: ::1 - - [26/Jan/2026:20:31:30 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:32:02 [INFO]: ::1 - - [26/Jan/2026:20:32:02 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:32:27 [INFO]: ::1 - - [26/Jan/2026:20:32:27 +0000] "POST /onboarding/create HTTP/1.1" 201 401 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:32:49 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:32:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:33:00 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:33:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:33:15 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:33:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:33:19 [INFO]: ::1 - - [26/Jan/2026:20:33:19 +0000] "POST /onboarding/create HTTP/1.1" 400 87 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:33:42 [INFO]: ::1 - - [26/Jan/2026:20:33:42 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 505 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:33:47 [INFO]: ::1 - - [26/Jan/2026:20:33:47 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 501 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:34:05 [INFO]: ::1 - - [26/Jan/2026:20:34:05 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:35:36 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:35:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:36:30 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:36:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:36:34 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:36:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:37:09 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:37:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:37:27 [INFO]: ::1 - - [26/Jan/2026:20:37:27 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:37:49 [INFO]: ::1 - - [26/Jan/2026:20:37:49 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:38:02 [INFO]: ::1 - - [26/Jan/2026:20:38:02 +0000] "POST /onboarding/create HTTP/1.1" 201 401 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:38:59 [INFO]: ::1 - - [26/Jan/2026:20:38:59 +0000] "GET /onboarding/view?_id=6977d0aae32aeee980f5b3c7 HTTP/1.1" 200 441 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:40:50 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:40:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:42:27 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:42:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:43:47 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:43:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:44:00 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:44:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:54:06 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:54:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:55:46 [INFO]: ::1 - - [26/Jan/2026:20:55:46 +0000] "POST /api/v1/auth/signup HTTP/1.1" 201 529 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:55:54 [INFO]: ::1 - - [26/Jan/2026:20:55:54 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 510 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:56:42 [INFO]: ::1 - - [26/Jan/2026:20:56:42 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:56:50 [INFO]: ::1 - - [26/Jan/2026:20:56:50 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:57:29 [INFO]: ::1 - - [26/Jan/2026:20:57:29 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 22:59:31 [INFO]: ✅ Connected to MongoDB
+2026-01-26 22:59:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 22:59:35 [INFO]: ::1 - - [26/Jan/2026:20:59:35 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:01:38 [INFO]: ::1 - - [26/Jan/2026:21:01:38 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:02:37 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:02:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:02:43 [INFO]: ::1 - - [26/Jan/2026:21:02:43 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:04:06 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:04:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:04:10 [INFO]: ::1 - - [26/Jan/2026:21:04:10 +0000] "POST /onboarding/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:04:36 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:04:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:04:42 [INFO]: ::1 - - [26/Jan/2026:21:04:42 +0000] "POST /onboarding/create HTTP/1.1" 201 401 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:06:42 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:06:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:07:13 [INFO]: ::1 - - [26/Jan/2026:21:07:13 +0000] "GET /onboarding/view?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 200 426 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:09:58 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:09:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:10:01 [INFO]: ::1 - - [26/Jan/2026:21:10:01 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:10:41 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:10:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:10:49 [INFO]: ::1 - - [26/Jan/2026:21:10:49 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:11:39 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:11:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:11:49 [INFO]: ::1 - - [26/Jan/2026:21:11:49 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:11:56 [INFO]: ::1 - - [26/Jan/2026:21:11:56 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 510 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:12:12 [INFO]: ::1 - - [26/Jan/2026:21:12:12 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:14:42 [INFO]: ::1 - - [26/Jan/2026:21:14:42 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:15:58 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:15:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:17:12 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:17:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:17:15 [INFO]: ::1 - - [26/Jan/2026:21:17:15 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:17:18 [INFO]: ::1 - - [26/Jan/2026:21:17:18 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:17:53 [INFO]: ✅ Connected to MongoDB
+2026-01-26 23:17:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-26 23:17:55 [INFO]: ::1 - - [26/Jan/2026:21:17:55 +0000] "PUT /onboarding/update?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-26 23:18:39 [INFO]: ::1 - - [26/Jan/2026:21:18:39 +0000] "DELETE /onboarding/delete?_id=6977d6ead50e87c9d910f5f5 HTTP/1.1" 201 56 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:47:35 [INFO]: ✅ Connected to MongoDB
+2026-01-28 10:47:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 10:50:29 [INFO]: ::1 - - [28/Jan/2026:08:50:29 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:51:41 [INFO]: ::1 - - [28/Jan/2026:08:51:41 +0000] "GET /obboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 404 154 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:52:17 [INFO]: ::1 - - [28/Jan/2026:08:52:17 +0000] "GET /oboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 404 153 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:53:16 [INFO]: ::1 - - [28/Jan/2026:08:53:16 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:56:46 [INFO]: ✅ Connected to MongoDB
+2026-01-28 10:56:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 10:56:55 [INFO]: ::1 - - [28/Jan/2026:08:56:55 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:58:26 [INFO]: ✅ Connected to MongoDB
+2026-01-28 10:58:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 10:58:37 [INFO]: ::1 - - [28/Jan/2026:08:58:37 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.0"
+2026-01-28 10:59:29 [INFO]: ✅ Connected to MongoDB
+2026-01-28 10:59:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 10:59:36 [INFO]: ::1 - - [28/Jan/2026:08:59:36 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:01:34 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:01:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:02:03 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:02:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:02:36 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:02:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:02:45 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:02:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:02:51 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:02:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:03:01 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:03:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:04:50 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:04:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:04:55 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:04:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:05:06 [INFO]: ::1 - - [28/Jan/2026:09:05:06 +0000] "GET /onboarding/view?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:06:48 [INFO]: ::1 - - [28/Jan/2026:09:06:48 +0000] "GET /onboarding/view?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:06:54 [INFO]: ::1 - - [28/Jan/2026:09:06:54 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:07:10 [INFO]: ::1 - - [28/Jan/2026:09:07:10 +0000] "GET /onboarding/view?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 103 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:09:42 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:09:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:09:52 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:09:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:10:08 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:10:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:10:57 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:10:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:11:02 [INFO]: ::1 - - [28/Jan/2026:09:11:02 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:11:22 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:11:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:11:29 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:11:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:11:50 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:11:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:11:56 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:11:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:12:37 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:12:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:12:46 [INFO]: ::1 - - [28/Jan/2026:09:12:46 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:13:05 [INFO]: ::1 - - [28/Jan/2026:09:13:05 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:13:42 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:13:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:13:47 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:13:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:13:49 [INFO]: ::1 - - [28/Jan/2026:09:13:49 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:16:27 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:16:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:17:55 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:17:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:18:05 [INFO]: ::1 - - [28/Jan/2026:09:18:05 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:18:34 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:18:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:18:38 [INFO]: ::1 - - [28/Jan/2026:09:18:38 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:19:17 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:19:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:19:34 [INFO]: ::1 - - [28/Jan/2026:09:19:34 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:19:59 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:19:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:20:31 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:20:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:24:56 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:24:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:25:21 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:25:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:25:29 [INFO]: ::1 - - [28/Jan/2026:09:25:29 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:26:32 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:26:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:26:37 [INFO]: ::1 - - [28/Jan/2026:09:26:37 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:26:44 [INFO]: ::1 - - [28/Jan/2026:09:26:44 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:27:31 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:27:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:27:37 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:27:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:27:58 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:27:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:28:07 [INFO]: ::1 - - [28/Jan/2026:09:28:07 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:29:00 [INFO]: ::1 - - [28/Jan/2026:09:29:00 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:29:26 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:29:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:29:45 [INFO]: ::1 - - [28/Jan/2026:09:29:45 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:30:38 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:30:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:30:54 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:30:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:31:11 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:31:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:37:25 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:37:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:37:55 [INFO]: ::1 - - [28/Jan/2026:09:37:55 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:38:54 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:38:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:38:57 [INFO]: ::1 - - [28/Jan/2026:09:38:57 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:39:11 [INFO]: ::1 - - [28/Jan/2026:09:39:11 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 498 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:39:28 [INFO]: ::1 - - [28/Jan/2026:09:39:28 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:39:39 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:39:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:39:41 [INFO]: ::1 - - [28/Jan/2026:09:39:41 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:41:22 [INFO]: ::1 - - [28/Jan/2026:09:41:22 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:41:35 [INFO]: ::1 - - [28/Jan/2026:09:41:35 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:42:11 [INFO]: ::1 - - [28/Jan/2026:09:42:11 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 400 54 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:42:54 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:42:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:42:58 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:42:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:43:07 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:43:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:43:09 [INFO]: ::1 - - [28/Jan/2026:09:43:09 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:43:12 [INFO]: ::1 - - [28/Jan/2026:09:43:12 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:43:48 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:43:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:44:02 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:44:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:44:09 [INFO]: ::1 - - [28/Jan/2026:09:44:09 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:45:20 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:45:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:45:22 [INFO]: ::1 - - [28/Jan/2026:09:45:22 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:45:38 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:45:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:46:03 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:46:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:46:04 [INFO]: ::1 - - [28/Jan/2026:09:46:04 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:46:50 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:46:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:46:53 [INFO]: ::1 - - [28/Jan/2026:09:46:53 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:47:20 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:47:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:47:22 [INFO]: ::1 - - [28/Jan/2026:09:47:22 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:48:57 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:48:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:49:08 [INFO]: ::1 - - [28/Jan/2026:09:49:08 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 72 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:49:49 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:49:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:49:56 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:49:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:49:58 [INFO]: ::1 - - [28/Jan/2026:09:49:58 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 72 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:51:10 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:51:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:51:13 [INFO]: ::1 - - [28/Jan/2026:09:51:13 +0000] "PUT /onboarding/update?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 72 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:51:40 [INFO]: ::1 - - [28/Jan/2026:09:51:40 +0000] "GET /onboarding/profile?_id=6977cf5b5965480b350e6293 HTTP/1.1" 404 157 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:51:47 [INFO]: ::1 - - [28/Jan/2026:09:51:47 +0000] "GET /onboarding/profile?_id=6977cf5b5965480b350e6293 HTTP/1.1" 404 157 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:51:59 [INFO]: ::1 - - [28/Jan/2026:09:51:59 +0000] "GET /onboarding/view?_id=6977cf5b5965480b350e6293 HTTP/1.1" 403 103 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:55:01 [INFO]: ::1 - - [28/Jan/2026:09:55:01 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 502 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:55:50 [INFO]: ::1 - - [28/Jan/2026:09:55:50 +0000] "GET /onboarding/view?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 200 414 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:56:56 [INFO]: ::1 - - [28/Jan/2026:09:56:56 +0000] "PUT /onboarding/update?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:57:59 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:57:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:58:30 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:58:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:58:32 [INFO]: ::1 - - [28/Jan/2026:09:58:32 +0000] "PUT /onboarding/update?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:58:47 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:58:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:58:49 [INFO]: ::1 - - [28/Jan/2026:09:58:49 +0000] "PUT /onboarding/update?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.0"
+2026-01-28 11:59:45 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:59:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 11:59:49 [INFO]: ✅ Connected to MongoDB
+2026-01-28 11:59:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:00:17 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:00:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:00:22 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:00:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:00:35 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:00:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:00:45 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:00:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:01:15 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:01:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:01:47 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:01:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:02:04 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:02:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:02:14 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:02:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:02:32 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:02:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:03:02 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:03:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:08:02 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:08:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:08:22 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:08:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:08:45 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:08:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:09:42 [INFO]: ::1 - - [28/Jan/2026:10:09:42 +0000] "GET /onboarding/dashboard?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 404 159 "-" "PostmanRuntime/7.51.0"
+2026-01-28 12:10:29 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:10:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:10:35 [INFO]: ::1 - - [28/Jan/2026:10:10:35 +0000] "GET /dashboard?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.0"
+2026-01-28 12:10:41 [INFO]: ::1 - - [28/Jan/2026:10:10:41 +0000] "POST /api/v1/auth/signin HTTP/1.1" 200 502 "-" "PostmanRuntime/7.51.0"
+2026-01-28 12:10:56 [INFO]: ::1 - - [28/Jan/2026:10:10:56 +0000] "GET /dashboard?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 200 414 "-" "PostmanRuntime/7.51.0"
+2026-01-28 12:11:41 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:11:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:12:22 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:12:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:12:38 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:12:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:12:45 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:12:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:12:54 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:12:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 12:14:07 [INFO]: ✅ Connected to MongoDB
+2026-01-28 12:14:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 16:42:29 [INFO]: ✅ Connected to MongoDB
+2026-01-28 16:42:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 16:42:46 [INFO]: ✅ Connected to MongoDB
+2026-01-28 16:42:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-28 16:43:40 [INFO]: ✅ Connected to MongoDB
+2026-01-28 16:43:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:13:38 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:13:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:13:55 [INFO]: ::1 - - [30/Jan/2026:20:13:55 +0000] "POST /api/auth/signin HTTP/1.1" 200 308 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:16:14 [INFO]: ::1 - - [30/Jan/2026:20:16:14 +0000] "GET /api/auth/profile?_id=697cfacbd1a291b0a679b622 HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:17:20 [INFO]: ::1 - - [30/Jan/2026:20:17:20 +0000] "GET /api/auth/profile?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:17:25 [INFO]: ::1 - - [30/Jan/2026:20:17:25 +0000] "GET /api/auth/profile?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:17:57 [INFO]: ::1 - - [30/Jan/2026:20:17:57 +0000] "POST /api/auth/signin HTTP/1.1" 200 308 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:18:58 [INFO]: ::1 - - [30/Jan/2026:20:18:58 +0000] "GET /api/auth/profile?_id=6977ce8922a32896aeca0a00 HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:19:24 [INFO]: ::1 - - [30/Jan/2026:20:19:24 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:20:25 [INFO]: ::1 - - [30/Jan/2026:20:20:25 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:22:13 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:22:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:24:32 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:24:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:25:08 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:25:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:25:37 [INFO]: ::1 - - [30/Jan/2026:20:25:37 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:27:36 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:27:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:02 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:25 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:30 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:34 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:50 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:28:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:28:51 [INFO]: ::1 - - [30/Jan/2026:20:28:51 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:35:55 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:35:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:37:10 [INFO]: ::1 - - [30/Jan/2026:20:37:10 +0000] "POST /api/auth/signin HTTP/1.1" 200 308 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:38:43 [INFO]: ::1 - - [30/Jan/2026:20:38:43 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:46:02 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:46:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:48:56 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:48:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:55:18 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:55:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:55:25 [INFO]: ::1 - - [30/Jan/2026:20:55:25 +0000] "POST /api/auth/signin HTTP/1.1" 200 308 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:55:46 [INFO]: ::1 - - [30/Jan/2026:20:55:46 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:56:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:56:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:56:18 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:56:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:56:29 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:56:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:56:43 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:56:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:57:05 [INFO]: ::1 - - [30/Jan/2026:20:57:05 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:57:28 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:57:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:57:30 [INFO]: ::1 - - [30/Jan/2026:20:57:30 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:57:55 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:57:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:58:02 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:58:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:58:04 [INFO]: ::1 - - [30/Jan/2026:20:58:04 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 22:58:21 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:58:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:58:37 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:58:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 22:59:53 [INFO]: ✅ Connected to MongoDB
+2026-01-30 22:59:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:00:58 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:00:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:01:12 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:01:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:01:16 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:01:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:01:21 [INFO]: ::1 - - [30/Jan/2026:21:01:21 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 76 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:01:41 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:01:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:01:43 [INFO]: ::1 - - [30/Jan/2026:21:01:43 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 76 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:03:06 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:03:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:03:12 [INFO]: ::1 - - [30/Jan/2026:21:03:12 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 76 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:03:28 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:03:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:03:45 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:03:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:03:47 [INFO]: ::1 - - [30/Jan/2026:21:03:47 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 76 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:04:26 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:04:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:04:38 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:04:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:04:39 [INFO]: ::1 - - [30/Jan/2026:21:04:39 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 76 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:05:05 [INFO]: ::1 - - [30/Jan/2026:21:05:05 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:05:25 [INFO]: ::1 - - [30/Jan/2026:21:05:25 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 388 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:05:41 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:05:42 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:05:50 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:05:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:06:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:06:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:07:07 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:07:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:09:19 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:09:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:10:16 [INFO]: ::1 - - [30/Jan/2026:21:10:16 +0000] "PATCH /api/auth/update-account?_id=6977caba4339b854948d887a HTTP/1.1" 400 54 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:11:23 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:11:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:11:39 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:11:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:12:01 [INFO]: ::1 - - [30/Jan/2026:21:12:01 +0000] "PATCH /api/auth/update-account?_id=6977caba4339b854948d887a HTTP/1.1" 400 67 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:12:17 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:12:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:12:33 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:12:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:12:35 [INFO]: ::1 - - [30/Jan/2026:21:12:35 +0000] "PATCH /api/auth/update-account?_id=6977caba4339b854948d887a HTTP/1.1" 400 67 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:14:45 [INFO]: ::1 - - [30/Jan/2026:21:14:45 +0000] "PATCH /api/auth/update-account HTTP/1.1" 404 65 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:16:31 [INFO]: ::1 - - [30/Jan/2026:21:16:31 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 268 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:17:15 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:17:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:17:39 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:17:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:19:07 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:19:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:19:39 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:19:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:19:44 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:19:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:19:48 [INFO]: ::1 - - [30/Jan/2026:21:19:48 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:20:25 [INFO]: ::1 - - [30/Jan/2026:21:20:25 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:20:31 [INFO]: ::1 - - [30/Jan/2026:21:20:31 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:20:47 [INFO]: ::1 - - [30/Jan/2026:21:20:47 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:21:13 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:21:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:21:28 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:21:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:21:31 [INFO]: ::1 - - [30/Jan/2026:21:21:31 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 400 54 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:22:10 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:22:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:22:18 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:22:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:22:20 [INFO]: ::1 - - [30/Jan/2026:21:22:20 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 400 60 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:22:37 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:22:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:22:47 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:22:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:22:49 [INFO]: ::1 - - [30/Jan/2026:21:22:49 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:23:30 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:23:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:23:38 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:23:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:23:39 [INFO]: ::1 - - [30/Jan/2026:21:23:39 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:24:20 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:24:20 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:24:28 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:24:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:24:43 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:24:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:24:47 [INFO]: ::1 - - [30/Jan/2026:21:24:47 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:25:21 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:25:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:25:37 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:25:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:25:50 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:25:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:26:08 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:26:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:26:10 [INFO]: ::1 - - [30/Jan/2026:21:26:10 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:26:34 [INFO]: ::1 - - [30/Jan/2026:21:26:34 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 268 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:26:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:26:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:27:02 [INFO]: ::1 - - [30/Jan/2026:21:27:02 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 268 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:27:17 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:27:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:27:26 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:27:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:27:26 [INFO]: ::1 - - [30/Jan/2026:21:27:26 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 287 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:27:28 [INFO]: ::1 - - [30/Jan/2026:21:27:28 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 287 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:27:39 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:27:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:27:49 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:27:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:27:52 [INFO]: ::1 - - [30/Jan/2026:21:27:52 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 302 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:28:22 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:28:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:28:37 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:28:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:28:39 [INFO]: ::1 - - [30/Jan/2026:21:28:39 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 302 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:28:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:28:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:29:14 [INFO]: ::1 - - [30/Jan/2026:21:29:14 +0000] "POST /api/auth/signin HTTP/1.1" 200 308 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:29:27 [INFO]: ::1 - - [30/Jan/2026:21:29:27 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 444 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:30:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:30:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:31:05 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:31:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:31:17 [INFO]: ::1 - - [30/Jan/2026:21:31:17 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 302 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:32:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:32:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:32:21 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:32:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:32:27 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:32:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:32:40 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:32:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:32:45 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:32:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:33:13 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:33:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:33:47 [INFO]: ::1 - - [30/Jan/2026:21:33:47 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" - - "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:33:56 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:33:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:34:03 [INFO]: ::1 - - [30/Jan/2026:21:34:03 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 302 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:34:48 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:34:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:35:17 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:35:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:35:20 [INFO]: ::1 - - [30/Jan/2026:21:35:20 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 403 62 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:35:28 [INFO]: ::1 - - [30/Jan/2026:21:35:28 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:35:43 [INFO]: ::1 - - [30/Jan/2026:21:35:43 +0000] "PATCH /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 302 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:36:19 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:36:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:36:54 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:36:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:37:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:37:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:37:22 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:37:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:37:28 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:37:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:37:53 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:37:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:37:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:37:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:38:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:38:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:38:14 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:38:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:38:17 [INFO]: ::1 - - [30/Jan/2026:21:38:17 +0000] "DELETE /api/auth/update-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" 404 165 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:38:34 [INFO]: ::1 - - [30/Jan/2026:21:38:34 +0000] "DELETE /api/auth/delete-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" - - "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:38:51 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:38:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:39:00 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:39:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:39:03 [INFO]: ::1 - - [30/Jan/2026:21:39:03 +0000] "DELETE /api/auth/delete-account?_id=6977b278eef4480ea93ca01f HTTP/1.1" - - "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:39:36 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:39:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:39:46 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:39:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:39:55 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:39:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:40:00 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:40:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:40:08 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:40:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:40:13 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:40:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:41:42 [INFO]: ::1 - - [30/Jan/2026:21:41:42 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 400 64 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:42:29 [INFO]: ::1 - - [30/Jan/2026:21:42:29 +0000] "GET /api/auth/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 420 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:43:32 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:43:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:44:08 [INFO]: ::1 - - [30/Jan/2026:21:44:08 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:44:26 [INFO]: ::1 - - [30/Jan/2026:21:44:26 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:44:29 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:44:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:44:31 [INFO]: ::1 - - [30/Jan/2026:21:44:31 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:44:47 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:44:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:44:49 [INFO]: ::1 - - [30/Jan/2026:21:44:49 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 500 442 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:45:46 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:45:46 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:46:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:46:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:46:10 [INFO]: ::1 - - [30/Jan/2026:21:46:10 +0000] "GET /api/auth/profile?_id=6977b278eef4480ea93ca01f HTTP/1.1" 200 289 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:46:37 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:46:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:50:27 [INFO]: ::1 - - [30/Jan/2026:21:50:27 +0000] "GET /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 404 156 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:50:39 [INFO]: ::1 - - [30/Jan/2026:21:50:39 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:51:13 [INFO]: ::1 - - [30/Jan/2026:21:51:13 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 400 57 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:52:34 [INFO]: ::1 - - [30/Jan/2026:21:52:34 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 400 50 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:52:54 [INFO]: ::1 - - [30/Jan/2026:21:52:54 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:53:59 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:53:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:54:04 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:54:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:54:12 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:54:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:54:25 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:54:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:54:53 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:54:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:54:58 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:54:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:56:00 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:56:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:56:19 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:56:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:56:36 [INFO]: ::1 - - [30/Jan/2026:21:56:36 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:56:58 [INFO]: ::1 - - [30/Jan/2026:21:56:58 +0000] "PUT /onboarding/update?_id=6977caba4339b854948d887a HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.0"
+2026-01-30 23:57:31 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:57:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:58:03 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:58:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-01-30 23:58:09 [INFO]: ✅ Connected to MongoDB
+2026-01-30 23:58:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:25:02 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:25:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:26:10 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:26:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:26:35 [INFO]: ::1 - - [02/Feb/2026:09:26:35 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:29:53 [INFO]: ::1 - - [02/Feb/2026:09:29:53 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 400 55 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:31:30 [INFO]: ::1 - - [02/Feb/2026:09:31:30 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:31:35 [INFO]: ::1 - - [02/Feb/2026:09:31:35 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:32:57 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:32:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:33:39 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:33:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:33:41 [INFO]: ::1 - - [02/Feb/2026:09:33:41 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:34:18 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:34:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:34:25 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:34:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:35:06 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:35:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:35:08 [INFO]: ::1 - - [02/Feb/2026:09:35:08 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:10 [INFO]: ::1 - - [02/Feb/2026:09:35:10 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:12 [INFO]: ::1 - - [02/Feb/2026:09:35:12 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:13 [INFO]: ::1 - - [02/Feb/2026:09:35:13 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:14 [INFO]: ::1 - - [02/Feb/2026:09:35:14 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:15 [INFO]: ::1 - - [02/Feb/2026:09:35:15 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:17 [INFO]: ::1 - - [02/Feb/2026:09:35:17 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:35:39 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:35:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:41:54 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:41:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:43:05 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:43:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:43:18 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:43:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:43:33 [INFO]: ::1 - - [02/Feb/2026:09:43:33 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:43:35 [INFO]: ::1 - - [02/Feb/2026:09:43:35 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:43:37 [INFO]: ::1 - - [02/Feb/2026:09:43:37 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 11:44:04 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:44:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:44:10 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:44:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:45:16 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:45:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:45:27 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:45:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:45:41 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:45:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:57:38 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:57:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 11:58:08 [INFO]: ✅ Connected to MongoDB
+2026-02-02 11:58:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:02:57 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:02:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:03:21 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:03:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:03:28 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:03:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:03:49 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:03:49 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:04:14 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:04:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:05:33 [INFO]: ::1 - - [02/Feb/2026:10:05:33 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:05:44 [INFO]: ::1 - - [02/Feb/2026:10:05:44 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:06:19 [INFO]: ::1 - - [02/Feb/2026:10:06:19 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 500 862 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:07:19 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:07:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:07:22 [INFO]: ::1 - - [02/Feb/2026:10:07:22 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:08:03 [INFO]: ::1 - - [02/Feb/2026:10:08:03 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 83 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:10:05 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:10:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:10:18 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:10:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:11:24 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:11:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:11:37 [INFO]: ::1 - - [02/Feb/2026:10:11:37 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:11:41 [INFO]: ::1 - - [02/Feb/2026:10:11:41 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:11:42 [INFO]: ::1 - - [02/Feb/2026:10:11:42 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:11:43 [INFO]: ::1 - - [02/Feb/2026:10:11:43 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:12:13 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:12:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:12:16 [INFO]: ::1 - - [02/Feb/2026:10:12:16 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:12:33 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:12:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:12:35 [INFO]: ::1 - - [02/Feb/2026:10:12:35 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 500 1594 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:13:28 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:13:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:13:36 [INFO]: ::1 - - [02/Feb/2026:10:13:36 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 500 447 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:14:33 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:14:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:14:36 [INFO]: ::1 - - [02/Feb/2026:10:14:36 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 500 447 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:18:13 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:18:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:20:31 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:20:31 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:20:41 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:20:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:20:43 [INFO]: ::1 - - [02/Feb/2026:10:20:43 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:20:54 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:20:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:21:07 [INFO]: ::1 - - [02/Feb/2026:10:21:07 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:21:14 [INFO]: ::1 - - [02/Feb/2026:10:21:14 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:21:55 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:21:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:21:57 [INFO]: ::1 - - [02/Feb/2026:10:21:57 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 12:25:27 [INFO]: ✅ Connected to MongoDB
+2026-02-02 12:25:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 12:25:29 [INFO]: ::1 - - [02/Feb/2026:10:25:29 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:23:43 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:23:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:27:04 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:27:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:28:09 [INFO]: ::1 - - [02/Feb/2026:18:28:09 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:28:39 [INFO]: ::1 - - [02/Feb/2026:18:28:39 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:29:19 [INFO]: ::1 - - [02/Feb/2026:18:29:19 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:29:51 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:29:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:29:52 [INFO]: ::1 - - [02/Feb/2026:18:29:52 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 429 108 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:30:10 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:30:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:30:12 [INFO]: ::1 - - [02/Feb/2026:18:30:12 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:30:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:30:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:31:14 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:31:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:32:08 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:32:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:32:33 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:32:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:32:39 [INFO]: ::1 - - [02/Feb/2026:18:32:39 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 200 406 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:36:13 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:36:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:36:51 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:36:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:36:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:36:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:37:05 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:37:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:37:12 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:37:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:37:40 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:37:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:38:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:38:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:39:06 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:39:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:39:21 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:39:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:39:27 [INFO]: ::1 - - [02/Feb/2026:18:39:27 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 500 585 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:39:41 [INFO]: ::1 - - [02/Feb/2026:18:39:41 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 500 585 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:41:04 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:41:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:41:15 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:41:15 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:45:19 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:45:19 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:46:06 [INFO]: ::1 - - [02/Feb/2026:18:46:06 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 500 537 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:46:34 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:46:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:46:40 [INFO]: ::1 - - [02/Feb/2026:18:46:40 +0000] "PUT /onboard/update?_id=6977caba4339b854948d887a HTTP/1.1" 500 76 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:47:25 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:47:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:47:40 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:47:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:47:47 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:47:47 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:51:36 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:51:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:52:05 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:52:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:52:41 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:52:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:53:03 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:53:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:53:10 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:53:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:53:16 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:53:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:54:39 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:54:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:54:44 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:54:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:57:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:57:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 20:58:03 [INFO]: ::1 - - [02/Feb/2026:18:58:03 +0000] "POST /api/auth/signup HTTP/1.1" 201 502 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:58:16 [INFO]: ::1 - - [02/Feb/2026:18:58:16 +0000] "POST /api/auth/signin HTTP/1.1" 200 305 "-" "PostmanRuntime/7.51.1"
+2026-02-02 20:59:52 [INFO]: ✅ Connected to MongoDB
+2026-02-02 20:59:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:00:14 [INFO]: ::1 - - [02/Feb/2026:19:00:14 +0000] "POST /onboard/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:00:24 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:00:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:01:21 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:01:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:01:25 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:01:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:01:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:01:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:01:50 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:01:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:02:01 [INFO]: ::1 - - [02/Feb/2026:19:02:01 +0000] "POST /onboard/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:02:29 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:02:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:02:35 [INFO]: ::1 - - [02/Feb/2026:19:02:35 +0000] "POST /onboard/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:03:40 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:03:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:03:45 [INFO]: ::1 - - [02/Feb/2026:19:03:45 +0000] "POST /onboard/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:04:14 [INFO]: ::1 - - [02/Feb/2026:19:04:14 +0000] "POST /onboard/create HTTP/1.1" 500 69 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:05:17 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:05:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:05:43 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:05:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:10:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:10:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:11:14 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:11:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:11:22 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:11:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:19:22 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:19:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:19:51 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:19:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:19:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:19:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:20:39 [INFO]: ::1 - - [02/Feb/2026:19:20:39 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:20:57 [INFO]: ::1 - - [02/Feb/2026:19:20:57 +0000] "GET /onboard/create?_id=6977caba4339b854948d887a HTTP/1.1" 404 153 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:21:15 [INFO]: ::1 - - [02/Feb/2026:19:21:15 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:22:00 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:22:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:22:04 [INFO]: ::1 - - [02/Feb/2026:19:22:04 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:22:22 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:22:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:22:24 [INFO]: ::1 - - [02/Feb/2026:19:22:24 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:22:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:22:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:22:37 [INFO]: ::1 - - [02/Feb/2026:19:22:37 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 109 "-" "PostmanRuntime/7.51.1"
+2026-02-02 21:26:16 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:26:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:26:29 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:26:29 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:26:53 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:26:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:27:04 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:27:04 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:27:12 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:27:12 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:27:43 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:27:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:28:03 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:28:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:28:08 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:28:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:30:44 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:30:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:38:22 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:38:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:38:50 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:38:50 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:41:14 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:41:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 21:41:35 [INFO]: ✅ Connected to MongoDB
+2026-02-02 21:41:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:11:51 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:11:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:12:25 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:12:25 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:12:55 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:12:55 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:13:45 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:13:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:13:52 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:13:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:13:59 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:13:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:15:23 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:15:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:33:11 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:33:11 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:33:26 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:33:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:33:32 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:33:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:33:44 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:33:44 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:33:54 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:33:54 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:34:21 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:34:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:34:26 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:34:26 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:36:41 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:36:41 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:38:00 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:38:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:38:53 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:38:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:39:07 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:39:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:39:12 [INFO]: ::1 - - [02/Feb/2026:20:39:12 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:18 [INFO]: ::1 - - [02/Feb/2026:20:39:18 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:32 [INFO]: ::1 - - [02/Feb/2026:20:39:32 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:39 [INFO]: ::1 - - [02/Feb/2026:20:39:39 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:42 [INFO]: ::1 - - [02/Feb/2026:20:39:42 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 49 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:49 [INFO]: ::1 - - [02/Feb/2026:20:39:49 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 49 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:39:51 [INFO]: ::1 - - [02/Feb/2026:20:39:51 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 49 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:40:36 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:40:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:41:18 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:41:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:41:24 [INFO]: ::1 - - [02/Feb/2026:20:41:24 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:42:05 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:42:05 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:55:59 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:55:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:56:04 [INFO]: ::1 - - [02/Feb/2026:20:56:04 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 22:59:09 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:59:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 22:59:27 [INFO]: ✅ Connected to MongoDB
+2026-02-02 22:59:27 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:01:01 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:01:01 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:01:16 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:01:16 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:02:34 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:02:34 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:03:10 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:03:10 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:03:51 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:03:51 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:04:03 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:04:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:04:13 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:04:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:04:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:04:57 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:05:03 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:05:03 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:07:37 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:07:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:10:21 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:10:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:10:32 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:10:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:10:40 [INFO]: ::1 - - [02/Feb/2026:21:10:40 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:10:45 [INFO]: ::1 - - [02/Feb/2026:21:10:45 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:11:39 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:11:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:11:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:11:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:12:09 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:12:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:12:28 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:12:28 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:12:32 [INFO]: ::1 - - [02/Feb/2026:21:12:32 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:12:42 [INFO]: ::1 - - [02/Feb/2026:21:12:42 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:12:47 [INFO]: ::1 - - [02/Feb/2026:21:12:47 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:12:58 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:12:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:13:00 [INFO]: ::1 - - [02/Feb/2026:21:13:00 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:13:11 [INFO]: ::1 - - [02/Feb/2026:21:13:11 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:13:17 [INFO]: ::1 - - [02/Feb/2026:21:13:17 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:13:19 [INFO]: ::1 - - [02/Feb/2026:21:13:19 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:13:32 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:13:32 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:13:36 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:13:36 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:13:56 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:13:56 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:13:57 [INFO]: ::1 - - [02/Feb/2026:21:13:57 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 403 44 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:14:01 [INFO]: ::1 - - [02/Feb/2026:21:14:01 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:14:10 [INFO]: ::1 - - [02/Feb/2026:21:14:10 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:14:13 [INFO]: ::1 - - [02/Feb/2026:21:14:13 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:14:15 [INFO]: ::1 - - [02/Feb/2026:21:14:15 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:14:17 [INFO]: ::1 - - [02/Feb/2026:21:14:17 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 429 49 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:15:00 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:15:00 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:15:08 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:15:08 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:15:10 [INFO]: ::1 - - [02/Feb/2026:21:15:10 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:15:12 [INFO]: ::1 - - [02/Feb/2026:21:15:12 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:15:13 [INFO]: ::1 - - [02/Feb/2026:21:15:13 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:15:14 [INFO]: ::1 - - [02/Feb/2026:21:15:14 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:15:16 [INFO]: ::1 - - [02/Feb/2026:21:15:16 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:16:28 [INFO]: ::1 - - [02/Feb/2026:21:16:28 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:22:02 [INFO]: ::1 - - [02/Feb/2026:21:22:02 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-02 23:22:52 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:22:52 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:22:59 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:22:59 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:23:06 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:23:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:23:17 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:23:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:23:23 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:23:23 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:23:37 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:23:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-02 23:24:30 [INFO]: ✅ Connected to MongoDB
+2026-02-02 23:24:30 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:12:18 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:12:18 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:14:39 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:14:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:17:13 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:17:13 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:17:22 [INFO]: ::1 - - [02/Feb/2026:22:17:22 +0000] "POST /api/auth/signin HTTP/1.1" 200 304 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:17:37 [INFO]: ::1 - - [02/Feb/2026:22:17:37 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:17:40 [INFO]: ::1 - - [02/Feb/2026:22:17:40 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:17:42 [INFO]: ::1 - - [02/Feb/2026:22:17:42 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:19:39 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:19:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:19:46 [INFO]: ::1 - - [02/Feb/2026:22:19:46 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:23:53 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:23:53 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:26:02 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:26:02 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:26:21 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:26:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:26:33 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:26:33 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:28:37 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:28:37 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:33:09 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:33:09 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:33:40 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:33:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:34:34 [INFO]: ::1 - - [02/Feb/2026:22:34:34 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:34:37 [INFO]: ::1 - - [02/Feb/2026:22:34:37 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:34:39 [INFO]: ::1 - - [02/Feb/2026:22:34:39 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:36:40 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:36:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:36:45 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:36:45 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:37:06 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:37:06 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:37:11 [INFO]: ::1 - - [02/Feb/2026:22:37:11 +0000] "GET /onboard/profile?_id=6977caba4339b854948d887a HTTP/1.1" 200 408 "-" "PostmanRuntime/7.51.1"
+2026-02-03 00:38:39 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:38:39 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:41:35 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:41:35 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:42:17 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:42:17 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:56:14 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:56:14 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:56:24 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:56:24 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:56:58 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:56:58 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 00:59:22 [INFO]: ✅ Connected to MongoDB
+2026-02-03 00:59:22 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:00:07 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:00:07 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:01:43 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:01:43 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:02:21 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:02:21 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:02:48 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:02:48 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:03:38 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:03:38 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:04:40 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:04:40 [INFO]: 🚀 Server running on http://localhost:8000
+2026-02-03 01:04:57 [INFO]: ✅ Connected to MongoDB
+2026-02-03 01:04:57 [INFO]: 🚀 Server running on http://localhost:8000

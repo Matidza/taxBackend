@@ -8,7 +8,6 @@ import cookieParser from "cookie-parser";
 
 import mongoose from "mongoose";
 import logger from "./src/config/logger.js";
-import connectDB from "./src/mongoDB/connect.js";
 import UserModel from "./src/models/userModel.js";
 
 // Routes
@@ -49,23 +48,22 @@ app.get("/", async (request, response) => {
 });
 
 // Mount routes
-app.use("/api/v1/auth", authRoutes);
-app.use("/onboarding", boardRoutes);
+app.use("/api/auth", authRoutes);
+app.use("/onboard", boardRoutes);
 app.use("/dashboard", dashboardRoute);
 
 const mongoURI = process.env.MONGO_URI || "*";
 const startServer = async () => {
   try {
     await mongoose.connect(mongoURI);
-
     // connectDB(process.env.MONGODB_URI)
     console.log(`\n`);
     logger.info("✅ Connected to MongoDB");
 
     app.listen(PORT, () => {
       logger.info(`🚀 Server running on http://localhost:${PORT}`, `\n`);
-      // console.log(`🚀 Server running on http://localhost:${PORT}`,`\n`);
     });
+
   } catch (error) {
     logger.error(`❌ MongoDB connection error: ${error.message}`);
     process.exit(1);
